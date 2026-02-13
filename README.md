@@ -70,28 +70,22 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-AkarshMishra&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
----
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Code-AkarshMishra&theme=tokyonight"/>
+</p>
 
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Code-AkarshMishra&theme=radical&no-frame=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 
@@ -113,8 +107,10 @@ Technology for Education • Awareness Programs
 
 ## 📫 Connect With Me
 
-📧 akarshmishra.cs@gmail.com  
+📧 akarshmishra.cs@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/akarsh-mishra1/
+
 🌐 Portfolio: Yet to come
 
 ---
