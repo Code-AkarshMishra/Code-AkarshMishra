@@ -73,16 +73,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&theme=radical&border_radius=10" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-AkarshMishra&theme=radical&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-AkarshMishra&theme=radical" height="165"/>
 </p>
 
 ---
 
+
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&theme=radical&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -90,8 +91,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Code-AkarshMishra&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Code-AkarshMishra&theme=radical&no-frame=true"/>
 </p>
+
 
 ---
 
