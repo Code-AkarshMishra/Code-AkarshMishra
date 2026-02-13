@@ -1,88 +1,122 @@
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akarsh%20Mishra&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Akarsh Mishra</h1>
-<h3 align="center">🚀 AI/ML Engineer | Full Stack Developer | Problem Solver 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;Computer+Vision+Explorer;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;MERN+Stack+Developer;Python+%26+Java+Developer;AI%2FML+Enthusiast;Leadership-Driven;HackWithUttarPradesh’25+Finalist;EX-Intern+Vault+of+Codes;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech CSE Student  
-- 🤖 Passionate about AI, Machine Learning & Real-Time Systems  
-- 🌐 Building Web + AI Hybrid Applications  
-- 🚀 Love creating impactful real-world tech projects  
-- 📍 India  
+🎓 B.Tech CSE Student (2023–2027)  
+🤖 Passionate about AI, ML & Full Stack Development  
+🌐 Love building real-world tech solutions  
+🏆 HackWithUttarPradesh’25 Finalist  
+🎖 Python Certified | MERN Stack Certified
+💼 EX-Intern @ Vault of Codes  
 
 ---
 
-## 🚀 Currently Working On
+## 💼 Experience
 
-- 🔥 AI-based Fog Detection & Reduction System  
-- 🎤 Real-Time Emotion & Confidence Detection  
-- 📱 AI Powered Social Media Platform  
+### 🏢 Web Development Intern — Vault of Codes (Remote)
+📅 Feb 2025 – Mar 2025  
+✔ Developed responsive **Hotel Management System**  
+✔ Built functional **Amazon Clone UI**
+
+### 🐍 Python Development Intern — Vault of Codes (Remote)
+📅 Sep 2024 – Oct 2024  
+✔ Created **To-Do List Application**  
+✔ Received **Letter of Recommendation**
+
+---
+
+## 🚀 Projects
+
+🔹 Simon Says Game — Interactive memory game  
+🔹 Weather Web App — Real-time WeatherAPI integration  
+🔹 Hotel Management System — GUI-based booking system  
+🔹 Amazon Clone — Responsive e-commerce UI  
+🔹 Prepbot.ai(Ongoing) — AI-powered learning platform  
 
 ---
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+### Languages
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+### Web & Frameworks
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![EJS](https://img.shields.io/badge/-EJS-black?style=for-the-badge)
 
-### 🤖 AI / ML / Data
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikit-learn)
+### Libraries & Tools
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&theme=radical&border_radius=10" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-AkarshMishra&theme=radical&border_radius=10" height="165"/>
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&theme=radical&border_radius=10"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Code-AkarshMishra&theme=radical&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 👥 Leadership & Responsibilities
 
-- 💼 LinkedIn: (Add Your Link)
-- 🌍 Portfolio: (Add Your Website)
-- 📧 Email: yourmail@gmail.com
-
----
-
-## 💡 Quote I Believe In
-
-> "Build things that solve real problems. Code with purpose."
+🎯 Script Squad Team Leader
+🎓 Student Co-ordinator — Tech Fusion Club SRMU  
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+## 🌟 Interests
+
+Web Development • AI/ML • Hackathons • Public Speaking  
+Technology for Education • Awareness Programs  
+
+---
+
+## 📫 Connect With Me
+
+📧 akarshmishra.cs@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/akarsh-mishra1/
+🌐 Portfolio: Yet to come
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
