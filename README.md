@@ -99,7 +99,7 @@ Technology for Education • Awareness Programs
 
 🔗 LinkedIn: https://www.linkedin.com/in/akarsh-mishra1/
 
-🌐 Portfolio: Yet to come
+🌐 Portfolio: https://akarsh-portfolio-lilac.vercel.app/
 
 ---
 
