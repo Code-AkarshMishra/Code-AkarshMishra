@@ -83,8 +83,8 @@ Technology for Education • Awareness Programs
 ### 📫 Let's Connect!
 
 - **LinkedIn:** [Akarsh Mishra](https://www.linkedin.com/in/akarsh-mishra1/)
-- **Email:** [akarshmishra.cs@gmail.com](mailto:akarshmishra.cs@gmail.com)
-- **Portfolio:** [Akarsh Mishra Portfolio](https://akarsh-portfolio-lilac.vercel.app/)
+- **Email:** [Mail-Akarsh Mishra](mailto:akarshmishra.cs@gmail.com)
+- **Portfolio:** [Akarsh Mishra Portfolio](https://code-akarshmishra.vercel.app/)
 
 *Google Me: "code-akarshmishra" or "Akarsh Mishra SRMU"*
 ---
