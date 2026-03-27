@@ -10,7 +10,7 @@
 </p>
 
 
-### AI & Full-Stack Developer | 3rd Year CSE Student at SRMU | Building ENROLE & MedRx
+### Full-Stack Developer & AI / ML Engineer (Basics) | 3rd Year CSE Student at SRMU | Building ENROLE & MedRx
 
 I am a curious builder from Lucknow, India, focused on bridging the gap between complex AI models and user-centric web applications. Currently, I am a Computer Science & Engineering student at **Shri Ramswaroop Memorial University (SRMU)**, refining my craft in the **MERN Stack** and **Machine Learning**.
 
@@ -30,12 +30,6 @@ I am a curious builder from Lucknow, India, focused on bridging the gap between 
 - **Ex-Intern @ Vault of Codes**: Worked on Web & Python development, delivering responsive systems like Hotel Management UIs.
 - **Deloitte Simulations**: Completed Cyber & Tech simulations to understand enterprise-level architecture.
 - **Tech Fusion Club SRMU**: coordinating tech events and documentation.
-
----
-
-
-
----
 
 ---
 
