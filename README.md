@@ -9,40 +9,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;MERN+Stack+Developer;Python+%26+Java+Developer;AI%2FML+Enthusiast;Leadership-Driven;HackWithUttarPradesh’25+Finalist;EX-Intern+Vault+of+Codes;Always+Learning+New+Things+🚀" />
 </p>
 
----
 
-## 🚀 About Me
+### AI & Full-Stack Developer | 3rd Year CSE Student at SRMU | Building ENROLE & MedRx
 
-🎓 B.Tech CSE Student (2023–2027)  
-🤖 Passionate about AI, ML & Full Stack Development  
-🌐 Love building real-world tech solutions  
-🏆 HackWithUttarPradesh’25 Finalist  
-🎖 Python Certified | MERN Stack Certified
-💼 EX-Intern @ Vault of Codes  
+I am a curious builder from Lucknow, India, focused on bridging the gap between complex AI models and user-centric web applications. Currently, I am a Computer Science & Engineering student at **Shri Ramswaroop Memorial University (SRMU)**, refining my craft in the **MERN Stack** and **Machine Learning**.
 
 ---
 
-## 💼 Experience
+### 🚀 Featured Projects
 
-### 🏢 Web Development Intern — Vault of Codes (Remote)
-📅 Feb 2025 – Mar 2025  
-✔ Developed responsive **Hotel Management System**  
-✔ Built functional **Amazon Clone UI**
-
-### 🐍 Python Development Intern — Vault of Codes (Remote)
-📅 Sep 2024 – Oct 2024  
-✔ Created **To-Do List Application**  
-✔ Received **Letter of Recommendation**
+- **[ENROLE](https://github.com/code-akarshmishra/enrole)**: A Smart AI Interview Platform designed to automate and enhance the hiring process.
+- **[MedRx](https://github.com/code-akarshmishra/medrx)**: An AI-driven solution to simplify complex medical reports for common users.
+- **[Prepbot.ai](https://github.com/code-akarshmishra/prepbot)**:  An AI-powered learning ecosystem for students.
 
 ---
 
-## 🚀 Projects
+### 💼 Experience & Achievements
 
-🔹 Simon Says Game — Interactive memory game  
-🔹 Weather Web App — Real-time WeatherAPI integration  
-🔹 Hotel Management System — GUI-based booking system  
-🔹 Amazon Clone — Responsive e-commerce UI  
-🔹 Prepbot.ai(Ongoing) — AI-powered learning platform  
+- **HackWithUttarPradesh’25 Finalist**: Top-tier competitive coding and solution building.
+- **Ex-Intern @ Vault of Codes**: Worked on Web & Python development, delivering responsive systems like Hotel Management UIs.
+- **Deloitte Simulations**: Completed Cyber & Tech simulations to understand enterprise-level architecture.
+- **Tech Fusion Club SRMU**: coordinating tech events and documentation.
+
+---
+
+
+
+---
 
 ---
 
@@ -93,14 +86,13 @@ Technology for Education • Awareness Programs
 
 ---
 
-## 📫 Connect With Me
+### 📫 Let's Connect!
 
-📧 akarshmishra.cs@gmail.com
+- **LinkedIn:** [Akarsh Mishra](https://www.linkedin.com/in/akarsh-mishra1/)
+- **Email:** [akarshmishra.cs@gmail.com](mailto:akarshmishra.cs@gmail.com)
+- **Portfolio:** [Akarsh Mishra Portfolio](https://akarsh-portfolio-lilac.vercel.app/)
 
-🔗 LinkedIn: https://www.linkedin.com/in/akarsh-mishra1/
-
-🌐 Portfolio: https://akarsh-portfolio-lilac.vercel.app/
-
+*Google Me: "code-akarshmishra" or "Akarsh Mishra SRMU"*
 ---
 
 <p align="center">
