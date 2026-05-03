@@ -24,30 +24,12 @@
 - 🧠 Focused on scalability & system design  
 - ✍️ Writing & teaching dev concepts  
 
-> “Simple code scales. Complex code fails silently.”
-
 ---
 
 # 🚀 Tech Stack
 
-### 🧠 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css"/>
-</p>
-
-### ⚙️ Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi"/>
-</p>
-
-### ☁️ Databases & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,vercel,docker"/>
-</p>
-
-### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,fastapi,mongodb,postgres,mysql,docker,vercel,linux,git,github,vscode,figma"/>
 </p>
 
 ---
@@ -56,28 +38,38 @@
 
 ## 🚀 ENROLE
 AI-powered interview simulator  
-- Real-time feedback  
-- LLM-based evaluation  
 
 ## 🏥 MedRx
 Medical document simplifier  
-- Converts complex terms into simple language  
 
 ## 🤖 PrepBot.AI
-Adaptive learning platform  
-- Personalized study system  
+Adaptive learning system  
 
 ## 📮 Post-Trust
-Digital portfolio for India Post agents  
+Portfolio platform  
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Advanced GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&theme=tokyonight&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&theme=tokyonight&border_radius=12"/>
+<!-- PROFILE SUMMARY CARDS -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-AkarshMishra&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Code-AkarshMishra&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Code-AkarshMishra&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Code-AkarshMishra&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-AkarshMishra&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-AkarshMishra&theme=react-dark&hide_border=true&area=true"/>
 
@@ -85,13 +77,21 @@ Digital portfolio for India Post agents
 
 ---
 
-# 🏆 Coding Profiles
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Code-AkarshMishra&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🧠 Coding Activity
 
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/code_akarshmishra?theme=dark&font=Fira+Code&ext=contest"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Code-AkarshMishra&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
