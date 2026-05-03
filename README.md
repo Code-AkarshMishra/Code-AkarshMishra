@@ -1,95 +1,135 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Akarsh%20Mishra&fontSize=80&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;MERN+Stack+Expert;Building+the+Future+of+Tech" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Akarsh Mishra</h1>
+<h3 align="center">🚀 B.Tech CSE | Builder | Tech + Business Mindset</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-High--Performance%20Scalable%20Apps-orange?style=for-the-badge" />
+  <a href="https://code-akarshmishra.vercel.app/">🌐 Portfolio</a> •
+  <a href="mailto:akarshmishra3145@gmail.com">📧 Email</a> •
+  <a href="https://github.com/Code-AkarshMishra">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/code-akarshmishra/">🔗 LinkedIn</a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 **CSE Student** | Full Stack Developer + AI/ML Enthusiast
-- 🧠 **Project Highlights:** [ENROLE](https://github.com/Code-AkarshMishra/ENROLE), [MedRx](https://github.com/Code-AkarshMishra/MedRx), [PrepBot.AI](https://github.com/Code-AkarshMishra/PrepBot.AI)
-- ⚡ **Expertise:** Scalable Web Apps, Automation, and intelligent system design
-- 🎯 **Current Goal:** Researching next-gen connectivity and high-impact AI products
+## ⚡ About Me
+- 🎓 B.Tech CSE (3rd Year)
+- 🧠 Focus: **Tech + Business + Scalability**
+- 🚀 Building projects that solve real-world problems
+- 💡 Interested in **Startups, AI, Web3, SaaS**
+- 📈 Growth mindset: Learning → Building → Monetizing
 
 ---
 
-## 📊 GitHub Analytics 
-
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akarsh's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-AkarshMishra&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-AkarshMishra&theme=github-dark&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 🏆 Achievements & Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=opensourceinitiative" />
-  <img src="https://img.shields.io/badge/Hackathon-Finalist-gold?style=for-the-badge&logo=hackerrank" />
-</p>
-
-<p align="center">
-  <img src="https://github-badges.vercel.app/api/badges/Code-AkarshMishra?compact=true&labels=true" alt="GitHub Real Badges" />
+  <a href="https://www.linkedin.com/in/code-akarshmishra/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://dev.to/codeakarshmishra"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <a href="https://www.instagram.com/akarsh.mishra.45/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.youtube.com/@code-akarshmishra"><img src="https://skillicons.dev/icons?i=youtube" /></a>
 </p>
 
 ---
 
 ## 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,python,fastapi,django,js,ts,docker,linux,git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,node,express,mongodb,python,cpp,java,git,github,vercel" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Portfolio & Email -->
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-AkarshMishra&theme=radical" height="180em"/>
 </p>
 
 <p align="center">
-  <!-- Social Media & Blogging -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/Code-AkarshMishra"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://instagram.com/YOUR_INSTA"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://dev.to/YOUR_DEVTO"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://medium.com/@YOUR_MEDIUM"><img src="https://skillicons.dev/icons?i=medium" /></a>
-</p>
-
-<p align="center">
-  <!-- Professional Platforms -->
-  <a href="https://topmate.io/YOUR_TOPMATE"><img src="https://img.shields.io/badge/Topmate-Consult%20Me-EB5E28?style=for-the-badge&logo=google-calendar&logoColor=white" /></a>
-  <a href="https://commudle.com/YOUR_COMMUDLE"><img src="https://img.shields.io/badge/Commudle-Community-0078D4?style=for-the-badge&logo=microsoftteams&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-<!-- FOOTER -->
+## 🧩 Coding Profiles
+
+### 🔥 LeetCode Stats
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://leetcard.jacoblin.cool/code_akarshmishra?theme=dark&font=baloo&ext=heatmap"/>
 </p>
+
+👉 Profile: https://leetcode.com/u/code_akarshmishra/
+
+---
+
+### 🧠 HackerRank
+👉 Profile: https://www.hackerrank.com/profile/CodeAkarshMishra  
+
+> ⚠️ HackerRank does not provide official dynamic badges.  
+You can manually update:
+- ⭐ Problem Solved
+- 🥇 Badges
+- 📊 Rank
+
+---
+
+## 📈 Dev.to Activity
+👉 https://dev.to/codeakarshmishra  
+
+- ✍️ Articles
+- 📊 Engagement
+- 🚀 Developer Branding
+
+---
+
+## 🎤 Community & Events (Commudle)
+👉 https://www.commudle.com/users/Code_AkarshMishra  
+
+- 🎯 Events Attended  
+- 🤝 Networking  
+- 📢 Tech Community Participation  
+
+---
+
+## 📊 Social Growth (Manual Section)
+
+| Platform     | Metric                  |
+|-------------|------------------------|
+| LinkedIn    | Followers / Posts      |
+| Instagram   | Followers              |
+| YouTube     | Subscribers / Videos   |
+| Topmate     | Sessions / Bookings    |
+
+👉 Add your real numbers here for impact.
+
+---
+
+## 🚀 Featured Portfolio
+🌐 https://code-akarshmishra.vercel.app/
+
+---
+
+## 📬 Contact Me
+- 📧 akarshmishra3145@gmail.com  
+- 📧 akarshmishra.cs@gmail.com  
+
+---
+
+## 🧠 Philosophy
+> Build → Scale → Monetize → Repeat
+
+---
+
+## 🐍 Contribution Graph Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔥 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Code-AkarshMishra&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐️ From Akarsh Mishra | Building the Future
