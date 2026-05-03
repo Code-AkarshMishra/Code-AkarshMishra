@@ -93,6 +93,9 @@ Portfolio platform
 
 <img src="https://leetcard.jacoblin.cool/code_akarshmishra?theme=dark&font=Fira+Code&ext=contest"/>
 
+<a href="https://www.hackerrank.com/CodeAkarshMishra">
+  <img src="https://img.shields.io/badge/HackerRank-5★-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 </div>
 
 ---
