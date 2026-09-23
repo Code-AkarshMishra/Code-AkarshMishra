@@ -18,7 +18,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-- 🎓 B.Tech CSE (3rd Year)  
+- 🎓 B.Tech CSE (Final Year)  
 - ⚡ Building AI-driven platforms  
 - 🧪 Exploring 6G + Machine Learning  
 - 🧠 Focused on scalability & system design  
