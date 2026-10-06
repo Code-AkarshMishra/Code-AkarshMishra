@@ -1,21 +1,37 @@
-# Setup (5 minutes)
+# Setup
 
-1. Copy everything in this folder into your `Code-AkarshMishra/Code-AkarshMishra` repo:
-   - `README.md`
-   - `assets/` (all 26 SVG files)
-   - `.github/workflows/` (snake.yml and blog-posts.yml)
-   - `generate_assets.py` (optional, only needed to edit the visuals)
-2. Commit to the `main` branch.
-3. Repo -> Actions tab -> run **Generate Contribution Snake** and **Latest Blog Posts** once
-   ("Run workflow"). The snake image and blog list stay empty until they run.
-4. If Actions are disabled: Settings -> Actions -> General -> allow actions, and
-   set Workflow permissions to "Read and write".
+## Upload to your profile repo  (Code-AkarshMishra/Code-AkarshMishra, branch: main)
+Unzip first, then upload these (GitHub's "Add file -> Upload files" accepts folders by drag and drop):
 
-## Editing the visuals
-Open `generate_assets.py`, change the DATA section at the top (project taglines, chips,
-status, banner lines, section titles), run `python3 generate_assets.py`, commit `assets/`.
+- `README.md`
+- `assets/`            (28 SVG files, they must be here or images show as broken)
+- `.github/`           (3 folders of workflows + 1 script; if the browser skips hidden
+                        folders, use "Create new file" and type the path, e.g.
+                        `.github/workflows/snake.yml`, then paste the contents)
+- `generate_assets.py`, `generate_readme.py`   (optional, only to edit things)
 
-## Fix these two links
-NeuroTrackAI and Mahakal Swarn Builder cards link to a repo *search* because I could not
-confirm their exact repo names. Put the real URL in `PROJECTS` (generate_assets.py is only
-for the card art) and in the matching `<a href>` in README.md.
+## Run the workflows once (Actions tab -> pick one -> Run workflow)
+1. Generate Contribution Snake   -> creates the `output` branch used by the snake image
+2. Activity Graph                -> replaces the placeholder with your real last-31-days chart
+3. Latest Blog Posts             -> fills the dev.to list
+
+If Actions is off: Settings -> Actions -> General -> Allow actions, and set
+Workflow permissions to "Read and write permissions".
+
+## Adding live links and fixing repo links
+Open `generate_assets.py`:
+- `PROJECTS`  last value of each row = repo link (NeuroTrackAI and Mahakal still point to a
+              repo search because the exact repo names were not known)
+- `LIVE`      paste a URL to show a "Live Demo" button on that card. Empty = no button.
+
+Then run:
+    python3 generate_assets.py
+    python3 generate_readme.py
+and commit README.md + assets/.
+
+## Notes
+- Achievement badge images come from github.githubassets.com. GitHub occasionally changes the
+  hash in those file names; if a badge breaks, right-click the badge on your profile ->
+  copy image address, and update `ACH` in generate_readme.py.
+- Light/dark: all custom images carry their own dark panel (look the same in both themes);
+  third-party cards and skill icons switch automatically with the viewer's GitHub theme.

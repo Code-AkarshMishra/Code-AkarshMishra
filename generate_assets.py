@@ -54,6 +54,17 @@ PROJECTS = [
      ["Open Source", "E-Commerce", "TypeScript"], "Open Source", "#4da3ff", f"{GH}/Sparsh-Trading"),
 ]
 
+# Live demo URLs. Leave "" to hide the Live button for that project.
+LIVE = {
+    "enrole": "",
+    "medrx": "",
+    "neurotrackai": "",
+    "weathergpt": "",
+    "prepbot": "",
+    "mahakal": "",
+    "sparsh": "",
+}
+
 SECTIONS = [  # (file, emoji, title, subtitle)
     ("whoami", "⌨️", "whoami", "who is behind the commits"),
     ("now", "📡", "Right Now", "what I'm up to these days"),
@@ -181,13 +192,19 @@ def headers():
         defs = f"""
 <linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#8ef9ff"/></linearGradient>
 <linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="{CYAN}" stop-opacity="0"/><stop offset=".5" stop-color="{CYAN}"/><stop offset="1" stop-color="{VIOLET}" stop-opacity="0"/></linearGradient>
+<linearGradient id="pb" x1="0" x2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#151235"/></linearGradient>
+<linearGradient id="pe" x1="0" x2="1"><stop offset="0" stop-color="{CYAN}" stop-opacity=".6"/><stop offset="1" stop-color="{VIOLET}" stop-opacity=".6"/></linearGradient>
+<clipPath id="pc"><rect x="2" y="2" width="{W-4}" height="{H-4}" rx="24"/></clipPath>
 """
         body = f"""
-<rect x="0" y="118" width="{W}" height="3" rx="1.5" fill="{CYAN}" fill-opacity=".14"/>
-<rect x="-300" y="116" width="300" height="6" rx="3" fill="url(#sw)">
-  <animate attributeName="x" from="-300" to="{W}" dur="3.6s" repeatCount="indefinite"/>
-</rect>
-<path d="M20 30 V12 H38 M{W-20} 30 V12 H{W-38}" fill="none" stroke="{CYAN}" stroke-width="3" stroke-linecap="round" stroke-opacity=".7"/>
+<rect x="2" y="2" width="{W-4}" height="{H-4}" rx="24" fill="url(#pb)" stroke="url(#pe)" stroke-width="2"/>
+<g clip-path="url(#pc)">
+  <rect x="0" y="{H-8}" width="{W}" height="3" fill="{CYAN}" fill-opacity=".14"/>
+  <rect x="-300" y="{H-10}" width="300" height="6" rx="3" fill="url(#sw)">
+    <animate attributeName="x" from="-300" to="{W}" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<path d="M26 38 V20 H44 M{W-26} 38 V20 H{W-44}" fill="none" stroke="{CYAN}" stroke-width="3" stroke-linecap="round" stroke-opacity=".7"/>
 <text x="{W/2}" y="70" text-anchor="middle" font-family="{SANS}" font-size="50" font-weight="800" fill="url(#tg)">{emoji} {esc(title)}</text>
 <text x="{W/2}" y="104" text-anchor="middle" font-family="{SANS}" font-size="22" fill="#8aa4c8">{esc(sub)}</text>
 """
@@ -312,9 +329,10 @@ def journey():
     defs = f"""
 <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="{CYAN}"/><stop offset=".5" stop-color="{VIOLET}"/><stop offset="1" stop-color="{GREEN}"/></linearGradient>
 """
-    xs = [125, 375, 625, 875]
-    body = f'<rect x="125" y="118" width="750" height="6" rx="3" fill="#ffffff" fill-opacity=".08"/>'
-    body += f'<rect x="125" y="118" width="750" height="6" rx="3" fill="url(#ln)"><animate attributeName="width" values="0;750;750;0" keyTimes="0;.5;.92;1" dur="9s" repeatCount="indefinite"/></rect>'
+    xs = [150, 380, 610, 840]
+    body = f'<rect x="2" y="2" width="{W-4}" height="{H-4}" rx="24" fill="#0b1020" stroke="{VIOLET}" stroke-opacity=".5" stroke-width="2"/>'
+    body += f'<rect x="150" y="118" width="690" height="6" rx="3" fill="#ffffff" fill-opacity=".08"/>'
+    body += f'<rect x="150" y="118" width="690" height="6" rx="3" fill="url(#ln)"><animate attributeName="width" values="0;690;690;0" keyTimes="0;.5;.92;1" dur="9s" repeatCount="indefinite"/></rect>'
     for i, ((d, a, b, c), x) in enumerate(zip(items, xs)):
         t0 = 0.5 * i / 3
         body += f"""
@@ -374,33 +392,31 @@ def project_cards():
         write("p-" + fname, W, H, defs, body)
 
 
-# ───────────────────────── 7. ACHIEVEMENTS ─────────────────────────
-def achievements():
-    items = [
-        ("⭐", "Starstruck", "GitHub achievement", YELLOW),
-        ("🧠", "Galaxy Brain", "GitHub achievement", VIOLET),
-        ("🦈", "Pull Shark", "GitHub achievement", CYAN),
-        ("🎲", "YOLO", "GitHub achievement", ORANGE),
-        ("⚡", "Quickdraw", "GitHub achievement", GREEN),
-        ("🏆", "HackWithUP '25", "Hackathon Finalist", PINK),
-    ]
-    W, TW, TH = 1000, 320, 165
-    H = 2 * TH + 40
-    defs = "".join(sweep_gradient(f"a{i}", c, "#ffffff", 3.5 + i * 0.3) for i, (_, _, _, c) in enumerate(items))
-    body = ""
-    for i, (em, t, s, c) in enumerate(items):
-        col, row = i % 3, i // 3
-        x = 10 + col * (TW + 15)
-        y = 10 + row * (TH + 20)
-        body += f"""
-<rect x="{x}" y="{y}" width="{TW}" height="{TH}" rx="20" fill="{PANEL}" stroke="url(#a{i})" stroke-width="2.5"/>
-<circle cx="{x+TW/2}" cy="{y+58}" r="40" fill="{c}" fill-opacity=".14"><animate attributeName="r" values="36;44;36" dur="3s" repeatCount="indefinite"/></circle>
-<text x="{x+TW/2}" y="{y+74}" text-anchor="middle" font-size="52">{em}
-  <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="{2.6+i*0.4}s" repeatCount="indefinite"/></text>
-<text x="{x+TW/2}" y="{y+127}" text-anchor="middle" font-family="{SANS}" font-size="26" font-weight="800" fill="#ffffff">{esc(t)}</text>
-<text x="{x+TW/2}" y="{y+153}" text-anchor="middle" font-family="{SANS}" font-size="17" fill="{c}">{esc(s)}</text>"""
-    write("achievements", W, H, defs, body)
 
+# ───────────────────────── 7. BUTTONS (repo / live) ─────────────────────────
+def buttons():
+    W, H = 230, 60
+    # Repository: dark pill with cyan outline
+    defs = f"""
+{sweep_gradient("o", CYAN, "#ffffff", 3)}
+"""
+    body = f"""
+<rect x="2" y="2" width="{W-4}" height="{H-4}" rx="30" fill="#0b1020" stroke="url(#o)" stroke-width="3"/>
+<text x="{W/2}" y="38" text-anchor="middle" font-family="{SANS}" font-size="22" font-weight="800" fill="#ffffff"><tspan fill="{CYAN}">&lt;/&gt;</tspan>  Repository</text>
+"""
+    write("btn-repo", W, H, defs, body)
+    # Live demo: filled gradient pill
+    defs = f"""
+<linearGradient id="lg" x1="0" x2="1"><stop offset="0" stop-color="{CYAN}"/><stop offset="1" stop-color="{VIOLET}"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="lc"><rect x="2" y="2" width="{W-4}" height="{H-4}" rx="30"/></clipPath>
+"""
+    body = f"""
+<rect x="2" y="2" width="{W-4}" height="{H-4}" rx="30" fill="url(#lg)"/>
+<g clip-path="url(#lc)"><rect x="-80" y="0" width="80" height="{H}" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" from="-120" to="{W+60}" dur="2.8s" repeatCount="indefinite"/></rect></g>
+<text x="{W/2}" y="38" text-anchor="middle" font-family="{SANS}" font-size="22" font-weight="800" fill="#07101f">🚀  Live Demo</text>
+"""
+    write("btn-live", W, H, defs, body)
 
 # ───────────────────────── 8. FOOTER ─────────────────────────
 def footer():
@@ -415,14 +431,17 @@ def footer():
     defs = f"""
 <linearGradient id="fw" x1="0" x2="1"><stop offset="0" stop-color="#0f2740"/><stop offset=".5" stop-color="#2c1a6b"/><stop offset="1" stop-color="#0f2740"/></linearGradient>
 <linearGradient id="ft" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#9ffaff"/></linearGradient>
+<clipPath id="fc"><rect x="2" y="2" width="{W-4}" height="{H-4}" rx="26"/></clipPath>
 """
     body = f"""
-<rect width="{W}" height="{H}" fill="none"/>
+<rect x="2" y="2" width="{W-4}" height="{H-4}" rx="26" fill="#0b1020"/>
+<g clip-path="url(#fc)">
 <g opacity=".35"><path d="{wave(14, 0, 120)}" fill="{CYAN}"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="14s" repeatCount="indefinite"/></path></g>
 <g opacity=".55"><path d="{wave(18, 1.6, 140)}" fill="{VIOLET}"><animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="11s" repeatCount="indefinite"/></path></g>
 <g><path d="{wave(12, 3.1, 165)}" fill="url(#fw)"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="8s" repeatCount="indefinite"/></path></g>
 <text x="{W/2}" y="120" text-anchor="middle" font-family="{SANS}" font-size="46" font-weight="800" fill="url(#ft)">⚡ Build systems. Not just projects.</text>
 <text x="{W/2}" y="205" text-anchor="middle" font-family="{SANS}" font-size="22" fill="#cfe3ff">Thanks for stopping by  ·  Akarsh Mishra</text>
+</g>
 """
     write("footer", W, H, defs, body)
 
@@ -434,6 +453,6 @@ if __name__ == "__main__":
     now()
     journey()
     project_cards()
-    achievements()
+    buttons()
     footer()
     print("Generated", len(os.listdir(OUT)), "SVG files in", OUT)

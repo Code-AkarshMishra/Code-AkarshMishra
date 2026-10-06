@@ -30,7 +30,7 @@
 <img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-now.svg" width="100%" alt="Right now"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/now.svg" width="100%" alt="What I'm doing right now"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/now.svg" width="100%" alt="What I am doing right now"/>
 </div>
 
 <br/>
@@ -46,30 +46,37 @@
 <img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-stack.svg" width="100%" alt="Tech arsenal"/>
 
 <table align="center">
+
 <tr>
   <td align="right"><h3>Languages</h3></td>
-  <td><img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" height="64"/></td>
+  <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark"/><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=light"/><img alt="Languages" src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" height="64"/></picture></td>
 </tr>
+
 <tr>
   <td align="right"><h3>Frontend</h3></td>
-  <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" height="64"/></td>
+  <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark"/><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=light"/><img alt="Frontend" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" height="64"/></picture></td>
 </tr>
+
 <tr>
   <td align="right"><h3>Backend</h3></td>
-  <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" height="64"/></td>
+  <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark"/><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=light"/><img alt="Backend" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" height="64"/></picture></td>
 </tr>
+
 <tr>
   <td align="right"><h3>AI / ML</h3></td>
-  <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="64"/></td>
+  <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light"/><img alt="AI / ML" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" height="64"/></picture></td>
 </tr>
+
 <tr>
   <td align="right"><h3>Databases</h3></td>
-  <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" height="64"/></td>
+  <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark"/><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=light"/><img alt="Databases" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" height="64"/></picture></td>
 </tr>
+
 <tr>
   <td align="right"><h3>DevOps &amp; Tools</h3></td>
-  <td><img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,postman,vscode&theme=dark" height="64"/></td>
+  <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,postman,vscode&theme=dark"/><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,postman,vscode&theme=light"/><img alt="DevOps &amp; Tools" src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,postman,vscode&theme=dark" height="64"/></picture></td>
 </tr>
+
 </table>
 
 <br/>
@@ -77,22 +84,49 @@
 <img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-projects.svg" width="100%" alt="Featured projects"/>
 
 <table align="center">
+
 <tr>
-  <td width="50%"><a href="https://github.com/Code-AkarshMishra/ENROLE"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-enrole.svg" width="100%" alt="ENROLE"/></a></td>
-  <td width="50%"><a href="https://github.com/Code-AkarshMishra/MedRx"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-medrx.svg" width="100%" alt="MedRx"/></a></td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Code-AkarshMishra/ENROLE"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-enrole.svg" width="100%" alt="ENROLE"/></a>
+<br/><a href="https://github.com/Code-AkarshMishra/ENROLE"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/btn-repo.svg" height="48" alt="ENROLE repository"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Code-AkarshMishra/MedRx"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-medrx.svg" width="100%" alt="MedRx"/></a>
+<br/><a href="https://github.com/Code-AkarshMishra/MedRx"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/btn-repo.svg" height="48" alt="MedRx repository"/></a>
+</td>
 </tr>
+
 <tr>
-  <td width="50%"><a href="https://github.com/Code-AkarshMishra?tab=repositories&q=neuro"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-neurotrackai.svg" width="100%" alt="NeuroTrackAI"/></a></td>
-  <td width="50%"><a href="https://github.com/Code-AkarshMishra/WeatherGPT"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-weathergpt.svg" width="100%" alt="WeatherGPT"/></a></td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Code-AkarshMishra?tab=repositories&q=neuro"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-neurotrackai.svg" width="100%" alt="NeuroTrackAI"/></a>
+<br/><a href="https://github.com/Code-AkarshMishra?tab=repositories&q=neuro"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/btn-repo.svg" height="48" alt="NeuroTrackAI repository"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Code-AkarshMishra/WeatherGPT"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-weathergpt.svg" width="100%" alt="WeatherGPT"/></a>
+<br/><a href="https://github.com/Code-AkarshMishra/WeatherGPT"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/btn-repo.svg" height="48" alt="WeatherGPT repository"/></a>
+</td>
 </tr>
+
 <tr>
-  <td width="50%"><a href="https://github.com/Code-AkarshMishra/Prepbot.ai"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-prepbot.svg" width="100%" alt="PrepBot.AI"/></a></td>
-  <td width="50%"><a href="https://github.com/Code-AkarshMishra?tab=repositories&q=mahakal"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-mahakal.svg" width="100%" alt="Mahakal Swarn Builder"/></a></td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Code-AkarshMishra/Prepbot.ai"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-prepbot.svg" width="100%" alt="PrepBot.AI"/></a>
+<br/><a href="https://github.com/Code-AkarshMishra/Prepbot.ai"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/btn-repo.svg" height="48" alt="PrepBot.AI repository"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/Code-AkarshMishra?tab=repositories&q=mahakal"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-mahakal.svg" width="100%" alt="Mahakal Swarn Builder"/></a>
+<br/><a href="https://github.com/Code-AkarshMishra?tab=repositories&q=mahakal"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/btn-repo.svg" height="48" alt="Mahakal Swarn Builder repository"/></a>
+</td>
 </tr>
+
 <tr>
-  <td width="50%" colspan="2" align="center"><a href="https://github.com/Code-AkarshMishra/Sparsh-Trading"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-sparsh.svg" width="50%" alt="Sparsh Trading"/></a></td>
+<td colspan="2" width="100%" align="center" valign="top">
+<a href="https://github.com/Code-AkarshMishra/Sparsh-Trading"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-sparsh.svg" width="50%" alt="Sparsh Trading"/></a>
+<br/><a href="https://github.com/Code-AkarshMishra/Sparsh-Trading"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/btn-repo.svg" height="48" alt="Sparsh Trading repository"/></a>
+</td>
 </tr>
+
 </table>
+
 
 <div align="center">
 <a href="https://github.com/Code-AkarshMishra?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories%20→-0f2027?style=for-the-badge&labelColor=0f2027&color=00f7ff" height="46"/></a>
@@ -104,12 +138,12 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Code-AkarshMishra&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF" width="100%"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Code-AkarshMishra&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF"/><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Code-AkarshMishra&theme=default&hide_border=true"/><img alt="Streak stats" src="https://streak-stats.demolab.com/?user=Code-AkarshMishra&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF" width="100%"/></picture>
 
 <table>
 <tr>
-  <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github&card_width=420&text_bold=true" width="100%"/></td>
-  <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&card_width=420&text_bold=true" width="100%"/></td>
+  <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github&card_width=420&text_bold=true"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=420&text_bold=true"/><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&rank_icon=github&card_width=420&text_bold=true" width="100%"/></picture></td>
+  <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&card_width=420&text_bold=true"/><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=420&text_bold=true"/><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&card_width=420&text_bold=true" width="100%"/></picture></td>
 </tr>
 </table>
 
@@ -120,11 +154,7 @@
 <img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-snake.svg" width="100%" alt="Contribution snake"/>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/output/github-snake-dark.svg" width="100%"/>
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/output/github-snake-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/output/github-snake.svg"/><img alt="Contribution snake" src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/output/github-snake-dark.svg" width="100%"/></picture>
 </div>
 
 <br/>
@@ -132,7 +162,7 @@
 <img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-activity.svg" width="100%" alt="Activity graph"/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-AkarshMishra&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00f7ff&line=7b2ff7&point=ffffff" width="100%"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/activity.svg" width="100%" alt="Contribution activity, last 31 days"/>
 </div>
 
 <br/>
@@ -141,16 +171,17 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-AkarshMishra&theme=tokyonight" width="70%"/>
-
 <table>
 <tr>
-  <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Code-AkarshMishra&theme=tokyonight" width="100%"/></td>
-  <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Code-AkarshMishra&theme=tokyonight" width="100%"/></td>
+  <td width="50%" colspan="2" align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-AkarshMishra&theme=tokyonight"/><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-AkarshMishra&theme=default"/><img alt="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-AkarshMishra&theme=tokyonight" width="100%"/></picture></td>
 </tr>
 <tr>
-  <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Code-AkarshMishra&theme=tokyonight" width="100%"/></td>
-  <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-AkarshMishra&theme=tokyonight&utcOffset=5.5" width="100%"/></td>
+  <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Code-AkarshMishra&theme=tokyonight"/><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Code-AkarshMishra&theme=default"/><img alt="repos-per-language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Code-AkarshMishra&theme=tokyonight" width="100%"/></picture></td>
+  <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Code-AkarshMishra&theme=tokyonight"/><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Code-AkarshMishra&theme=default"/><img alt="most-commit-language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Code-AkarshMishra&theme=tokyonight" width="100%"/></picture></td>
+</tr>
+<tr>
+  <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Code-AkarshMishra&theme=tokyonight"/><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Code-AkarshMishra&theme=default"/><img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Code-AkarshMishra&theme=tokyonight" width="100%"/></picture></td>
+  <td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-AkarshMishra&theme=tokyonight&utcOffset=5.5"/><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-AkarshMishra&theme=default&utcOffset=5.5"/><img alt="productive-time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Code-AkarshMishra&theme=tokyonight&utcOffset=5.5" width="100%"/></picture></td>
 </tr>
 </table>
 
@@ -161,9 +192,43 @@
 <img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-achievements.svg" width="100%" alt="Achievements"/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/achievements.svg" width="100%" alt="Achievements"/>
-<br/><br/>
+
+<table>
+<tr>
+
+  <td align="center" width="20%">
+    <a href="https://github.com/Code-AkarshMishra?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="150" alt="Starstruck"/></a>
+    <br/><b>Starstruck</b>
+  </td>
+
+  <td align="center" width="20%">
+    <a href="https://github.com/Code-AkarshMishra?achievement=galaxy-brain&tab=achievements"><img src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" width="150" alt="Galaxy Brain"/></a>
+    <br/><b>Galaxy Brain</b>
+  </td>
+
+  <td align="center" width="20%">
+    <a href="https://github.com/Code-AkarshMishra?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="150" alt="Pull Shark"/></a>
+    <br/><b>Pull Shark</b>
+  </td>
+
+  <td align="center" width="20%">
+    <a href="https://github.com/Code-AkarshMishra?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="150" alt="YOLO"/></a>
+    <br/><b>YOLO</b>
+  </td>
+
+  <td align="center" width="20%">
+    <a href="https://github.com/Code-AkarshMishra?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="150" alt="Quickdraw"/></a>
+    <br/><b>Quickdraw</b>
+  </td>
+
+</tr>
+</table>
+
+
+<img src="https://img.shields.io/badge/HackWithUP'25-Finalist-ff6b35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0f2027" height="46"/>
+
 <a href="https://github.com/pulls?q=is%3Apr+author%3ACode-AkarshMishra"><img src="https://img.shields.io/badge/View%20my%20Pull%20Requests-→-7b2ff7?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027" height="46"/></a>
+
 </div>
 
 <br/>
@@ -171,7 +236,7 @@
 <img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-coding.svg" width="100%" alt="Competitive coding"/>
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/code_akarshmishra?theme=dark&font=Fira+Code&ext=contest" width="75%"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/code_akarshmishra?theme=dark&font=Fira+Code&ext=contest"/><source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/code_akarshmishra?theme=light&font=Fira+Code&ext=contest"/><img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/code_akarshmishra?theme=dark&font=Fira+Code&ext=contest" width="75%"/></picture>
 <br/><br/>
 <a href="https://www.hackerrank.com/CodeAkarshMishra"><img src="https://img.shields.io/badge/HackerRank-Java%20%E2%98%85%20%7C%20Python%20%E2%98%85%E2%98%85%E2%98%85-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0f2027" height="50"/></a>
 </div>
