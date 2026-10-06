@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="270" viewBox="0 0 1000 270" role="img" aria-label="journey">
+<defs>
+
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#00f7ff"/><stop offset=".5" stop-color="#7b2ff7"/><stop offset="1" stop-color="#2ee59d"/></linearGradient>
+
+</defs>
+<rect x="125" y="118" width="750" height="6" rx="3" fill="#ffffff" fill-opacity=".08"/><rect x="125" y="118" width="750" height="6" rx="3" fill="url(#ln)"><animate attributeName="width" values="0;750;750;0" keyTimes="0;.5;.92;1" dur="9s" repeatCount="indefinite"/></rect>
+<g opacity="1">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.000;0.060;.92;1" dur="9s" repeatCount="indefinite"/>
+  <circle cx="125" cy="121" r="22" fill="#00f7ff" fill-opacity=".18"><animate attributeName="r" values="18;26;18" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="125" cy="121" r="12" fill="#00f7ff"/>
+  <text x="125" y="70" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#00f7ff">Oct 2024</text>
+  <text x="125" y="182" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f6ff">First GitHub</text>
+  <text x="125" y="214" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#a9bbd8">contribution</text>
+</g>
+<g opacity="1">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.167;0.227;.92;1" dur="9s" repeatCount="indefinite"/>
+  <circle cx="375" cy="121" r="22" fill="#ff6b35" fill-opacity=".18"><animate attributeName="r" values="18;26;18" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="375" cy="121" r="12" fill="#ff6b35"/>
+  <text x="375" y="70" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#ff6b35">2025</text>
+  <text x="375" y="182" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f6ff">HackWithUP '25</text>
+  <text x="375" y="214" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#a9bbd8">Finalist 🏆</text>
+</g>
+<g opacity="1">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.333;0.393;.92;1" dur="9s" repeatCount="indefinite"/>
+  <circle cx="625" cy="121" r="22" fill="#7b2ff7" fill-opacity=".18"><animate attributeName="r" values="18;26;18" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="625" cy="121" r="12" fill="#7b2ff7"/>
+  <text x="625" y="70" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#7b2ff7">2026</text>
+  <text x="625" y="182" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f6ff">4th Year CSE</text>
+  <text x="625" y="214" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#a9bbd8">@ SRMU, Lucknow</text>
+</g>
+<g opacity="1">
+  <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.500;0.560;.92;1" dur="9s" repeatCount="indefinite"/>
+  <circle cx="875" cy="121" r="22" fill="#2ee59d" fill-opacity=".18"><animate attributeName="r" values="18;26;18" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="875" cy="121" r="12" fill="#2ee59d"/>
+  <text x="875" y="70" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#2ee59d">Now</text>
+  <text x="875" y="182" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f6ff">Building ENROLE,</text>
+  <text x="875" y="214" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#a9bbd8">MedRx &amp; NeuroTrackAI</text>
+</g>
+</svg>

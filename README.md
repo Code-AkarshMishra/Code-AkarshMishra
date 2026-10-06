@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Akarsh Mishra: Full-Stack Developer, AI/ML Engineer, Open Source Builder" width="100%"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/banner.svg" alt="Akarsh Mishra: Full-Stack Developer, AI/ML Engineer, Open Source Builder" width="100%"/>
 
 <br/>
 
@@ -19,31 +19,31 @@
 
 <br/>
 
-<img src="./assets/h-whoami.svg" width="100%" alt="whoami"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-whoami.svg" width="100%" alt="whoami"/>
 
 <div align="center">
-<img src="./assets/whoami.svg" width="100%" alt="About me"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/whoami.svg" width="100%" alt="About me"/>
 </div>
 
 <br/>
 
-<img src="./assets/h-now.svg" width="100%" alt="Right now"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-now.svg" width="100%" alt="Right now"/>
 
 <div align="center">
-<img src="./assets/now.svg" width="100%" alt="What I'm doing right now"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/now.svg" width="100%" alt="What I'm doing right now"/>
 </div>
 
 <br/>
 
-<img src="./assets/h-journey.svg" width="100%" alt="My journey"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-journey.svg" width="100%" alt="My journey"/>
 
 <div align="center">
-<img src="./assets/journey.svg" width="100%" alt="Timeline"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/journey.svg" width="100%" alt="Timeline"/>
 </div>
 
 <br/>
 
-<img src="./assets/h-stack.svg" width="100%" alt="Tech arsenal"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-stack.svg" width="100%" alt="Tech arsenal"/>
 
 <table align="center">
 <tr>
@@ -74,23 +74,23 @@
 
 <br/>
 
-<img src="./assets/h-projects.svg" width="100%" alt="Featured projects"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-projects.svg" width="100%" alt="Featured projects"/>
 
 <table align="center">
 <tr>
-  <td width="50%"><a href="https://github.com/Code-AkarshMishra/ENROLE"><img src="./assets/p-enrole.svg" width="100%" alt="ENROLE"/></a></td>
-  <td width="50%"><a href="https://github.com/Code-AkarshMishra/MedRx"><img src="./assets/p-medrx.svg" width="100%" alt="MedRx"/></a></td>
+  <td width="50%"><a href="https://github.com/Code-AkarshMishra/ENROLE"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-enrole.svg" width="100%" alt="ENROLE"/></a></td>
+  <td width="50%"><a href="https://github.com/Code-AkarshMishra/MedRx"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-medrx.svg" width="100%" alt="MedRx"/></a></td>
 </tr>
 <tr>
-  <td width="50%"><a href="https://github.com/Code-AkarshMishra?tab=repositories&q=neuro"><img src="./assets/p-neurotrackai.svg" width="100%" alt="NeuroTrackAI"/></a></td>
-  <td width="50%"><a href="https://github.com/Code-AkarshMishra/WeatherGPT"><img src="./assets/p-weathergpt.svg" width="100%" alt="WeatherGPT"/></a></td>
+  <td width="50%"><a href="https://github.com/Code-AkarshMishra?tab=repositories&q=neuro"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-neurotrackai.svg" width="100%" alt="NeuroTrackAI"/></a></td>
+  <td width="50%"><a href="https://github.com/Code-AkarshMishra/WeatherGPT"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-weathergpt.svg" width="100%" alt="WeatherGPT"/></a></td>
 </tr>
 <tr>
-  <td width="50%"><a href="https://github.com/Code-AkarshMishra/Prepbot.ai"><img src="./assets/p-prepbot.svg" width="100%" alt="PrepBot.AI"/></a></td>
-  <td width="50%"><a href="https://github.com/Code-AkarshMishra?tab=repositories&q=mahakal"><img src="./assets/p-mahakal.svg" width="100%" alt="Mahakal Swarn Builder"/></a></td>
+  <td width="50%"><a href="https://github.com/Code-AkarshMishra/Prepbot.ai"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-prepbot.svg" width="100%" alt="PrepBot.AI"/></a></td>
+  <td width="50%"><a href="https://github.com/Code-AkarshMishra?tab=repositories&q=mahakal"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-mahakal.svg" width="100%" alt="Mahakal Swarn Builder"/></a></td>
 </tr>
 <tr>
-  <td width="50%" colspan="2" align="center"><a href="https://github.com/Code-AkarshMishra/Sparsh-Trading"><img src="./assets/p-sparsh.svg" width="50%" alt="Sparsh Trading"/></a></td>
+  <td width="50%" colspan="2" align="center"><a href="https://github.com/Code-AkarshMishra/Sparsh-Trading"><img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/p-sparsh.svg" width="50%" alt="Sparsh Trading"/></a></td>
 </tr>
 </table>
 
@@ -100,7 +100,7 @@
 
 <br/>
 
-<img src="./assets/h-stats.svg" width="100%" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-stats.svg" width="100%" alt="GitHub stats"/>
 
 <div align="center">
 
@@ -117,7 +117,7 @@
 
 <br/>
 
-<img src="./assets/h-snake.svg" width="100%" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-snake.svg" width="100%" alt="Contribution snake"/>
 
 <div align="center">
 <picture>
@@ -129,7 +129,7 @@
 
 <br/>
 
-<img src="./assets/h-activity.svg" width="100%" alt="Activity graph"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-activity.svg" width="100%" alt="Activity graph"/>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-AkarshMishra&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00f7ff&line=7b2ff7&point=ffffff" width="100%"/>
@@ -137,7 +137,7 @@
 
 <br/>
 
-<img src="./assets/h-analytics.svg" width="100%" alt="Deep analytics"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-analytics.svg" width="100%" alt="Deep analytics"/>
 
 <div align="center">
 
@@ -158,17 +158,17 @@
 
 <br/>
 
-<img src="./assets/h-achievements.svg" width="100%" alt="Achievements"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-achievements.svg" width="100%" alt="Achievements"/>
 
 <div align="center">
-<img src="./assets/achievements.svg" width="100%" alt="Achievements"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/achievements.svg" width="100%" alt="Achievements"/>
 <br/><br/>
 <a href="https://github.com/pulls?q=is%3Apr+author%3ACode-AkarshMishra"><img src="https://img.shields.io/badge/View%20my%20Pull%20Requests-→-7b2ff7?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027" height="46"/></a>
 </div>
 
 <br/>
 
-<img src="./assets/h-coding.svg" width="100%" alt="Competitive coding"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-coding.svg" width="100%" alt="Competitive coding"/>
 
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/code_akarshmishra?theme=dark&font=Fira+Code&ext=contest" width="75%"/>
@@ -178,7 +178,7 @@
 
 <br/>
 
-<img src="./assets/h-blog.svg" width="100%" alt="Latest writing"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-blog.svg" width="100%" alt="Latest writing"/>
 
 <!-- Auto-updated by .github/workflows/blog-posts.yml (dev.to feed) -->
 <!-- BLOG-POST-LIST:START -->
@@ -190,7 +190,7 @@
 
 <br/>
 
-<img src="./assets/h-connect.svg" width="100%" alt="Let's connect"/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/h-connect.svg" width="100%" alt="Let's connect"/>
 
 <div align="center">
 
@@ -206,4 +206,4 @@
 
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt="Build systems. Not just projects."/>
+<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/main/assets/footer.svg" width="100%" alt="Build systems. Not just projects."/>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="370" viewBox="0 0 1000 370" role="img" aria-label="achievements">
+<defs>
+<linearGradient id="a0" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" ><stop offset="0" stop-color="#ffd24a"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#ffd24a"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3.5s" repeatCount="indefinite"/></linearGradient><linearGradient id="a1" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" ><stop offset="0" stop-color="#7b2ff7"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#7b2ff7"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3.8s" repeatCount="indefinite"/></linearGradient><linearGradient id="a2" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" ><stop offset="0" stop-color="#00f7ff"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#00f7ff"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4.1s" repeatCount="indefinite"/></linearGradient><linearGradient id="a3" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" ><stop offset="0" stop-color="#ff6b35"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#ff6b35"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4.4s" repeatCount="indefinite"/></linearGradient><linearGradient id="a4" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" ><stop offset="0" stop-color="#2ee59d"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#2ee59d"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4.7s" repeatCount="indefinite"/></linearGradient><linearGradient id="a5" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" ><stop offset="0" stop-color="#ff4ecd"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#ff4ecd"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="5.0s" repeatCount="indefinite"/></linearGradient>
+</defs>
+
+<rect x="10" y="10" width="320" height="165" rx="20" fill="#10172a" stroke="url(#a0)" stroke-width="2.5"/>
+<circle cx="170.0" cy="68" r="40" fill="#ffd24a" fill-opacity=".14"><animate attributeName="r" values="36;44;36" dur="3s" repeatCount="indefinite"/></circle>
+<text x="170.0" y="84" text-anchor="middle" font-size="52">⭐
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="2.6s" repeatCount="indefinite"/></text>
+<text x="170.0" y="137" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#ffffff">Starstruck</text>
+<text x="170.0" y="163" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#ffd24a">GitHub achievement</text>
+<rect x="345" y="10" width="320" height="165" rx="20" fill="#10172a" stroke="url(#a1)" stroke-width="2.5"/>
+<circle cx="505.0" cy="68" r="40" fill="#7b2ff7" fill-opacity=".14"><animate attributeName="r" values="36;44;36" dur="3s" repeatCount="indefinite"/></circle>
+<text x="505.0" y="84" text-anchor="middle" font-size="52">🧠
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.0s" repeatCount="indefinite"/></text>
+<text x="505.0" y="137" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#ffffff">Galaxy Brain</text>
+<text x="505.0" y="163" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#7b2ff7">GitHub achievement</text>
+<rect x="680" y="10" width="320" height="165" rx="20" fill="#10172a" stroke="url(#a2)" stroke-width="2.5"/>
+<circle cx="840.0" cy="68" r="40" fill="#00f7ff" fill-opacity=".14"><animate attributeName="r" values="36;44;36" dur="3s" repeatCount="indefinite"/></circle>
+<text x="840.0" y="84" text-anchor="middle" font-size="52">🦈
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.4000000000000004s" repeatCount="indefinite"/></text>
+<text x="840.0" y="137" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#ffffff">Pull Shark</text>
+<text x="840.0" y="163" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#00f7ff">GitHub achievement</text>
+<rect x="10" y="195" width="320" height="165" rx="20" fill="#10172a" stroke="url(#a3)" stroke-width="2.5"/>
+<circle cx="170.0" cy="253" r="40" fill="#ff6b35" fill-opacity=".14"><animate attributeName="r" values="36;44;36" dur="3s" repeatCount="indefinite"/></circle>
+<text x="170.0" y="269" text-anchor="middle" font-size="52">🎲
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3.8000000000000003s" repeatCount="indefinite"/></text>
+<text x="170.0" y="322" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#ffffff">YOLO</text>
+<text x="170.0" y="348" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#ff6b35">GitHub achievement</text>
+<rect x="345" y="195" width="320" height="165" rx="20" fill="#10172a" stroke="url(#a4)" stroke-width="2.5"/>
+<circle cx="505.0" cy="253" r="40" fill="#2ee59d" fill-opacity=".14"><animate attributeName="r" values="36;44;36" dur="3s" repeatCount="indefinite"/></circle>
+<text x="505.0" y="269" text-anchor="middle" font-size="52">⚡
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="4.2s" repeatCount="indefinite"/></text>
+<text x="505.0" y="322" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#ffffff">Quickdraw</text>
+<text x="505.0" y="348" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#2ee59d">GitHub achievement</text>
+<rect x="680" y="195" width="320" height="165" rx="20" fill="#10172a" stroke="url(#a5)" stroke-width="2.5"/>
+<circle cx="840.0" cy="253" r="40" fill="#ff4ecd" fill-opacity=".14"><animate attributeName="r" values="36;44;36" dur="3s" repeatCount="indefinite"/></circle>
+<text x="840.0" y="269" text-anchor="middle" font-size="52">🏆
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="4.6s" repeatCount="indefinite"/></text>
+<text x="840.0" y="322" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" font-weight="800" fill="#ffffff">HackWithUP '25</text>
+<text x="840.0" y="348" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#ff4ecd">Hackathon Finalist</text>
+</svg>

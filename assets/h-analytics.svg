@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" role="img" aria-label="h-analytics">
+<defs>
+
+<linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#8ef9ff"/></linearGradient>
+<linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#00f7ff" stop-opacity="0"/><stop offset=".5" stop-color="#00f7ff"/><stop offset="1" stop-color="#7b2ff7" stop-opacity="0"/></linearGradient>
+
+</defs>
+
+<rect x="0" y="118" width="1000" height="3" rx="1.5" fill="#00f7ff" fill-opacity=".14"/>
+<rect x="-300" y="116" width="300" height="6" rx="3" fill="url(#sw)">
+  <animate attributeName="x" from="-300" to="1000" dur="3.6s" repeatCount="indefinite"/>
+</rect>
+<path d="M20 30 V12 H38 M980 30 V12 H962" fill="none" stroke="#00f7ff" stroke-width="3" stroke-linecap="round" stroke-opacity=".7"/>
+<text x="500.0" y="70" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="50" font-weight="800" fill="url(#tg)">🔬 Deep Analytics</text>
+<text x="500.0" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" fill="#8aa4c8">how and when I code</text>
+
+</svg>

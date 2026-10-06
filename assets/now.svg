@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="396" viewBox="0 0 1000 396" role="img" aria-label="now">
+<defs>
+<linearGradient id="b0" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" ><stop offset="0" stop-color="#00f7ff"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#00f7ff"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3.0s" repeatCount="indefinite"/></linearGradient><linearGradient id="b1" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" ><stop offset="0" stop-color="#7b2ff7"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#7b2ff7"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3.4s" repeatCount="indefinite"/></linearGradient><linearGradient id="b2" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" ><stop offset="0" stop-color="#2ee59d"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#2ee59d"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3.8s" repeatCount="indefinite"/></linearGradient><linearGradient id="b3" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" ><stop offset="0" stop-color="#ff6b35"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#ff6b35"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4.2s" repeatCount="indefinite"/></linearGradient><linearGradient id="b4" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" ><stop offset="0" stop-color="#ff4ecd"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#ff4ecd"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4.6s" repeatCount="indefinite"/></linearGradient><linearGradient id="b5" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" ><stop offset="0" stop-color="#ffd24a"/><stop offset="0.5" stop-color="#ffffff"/><stop offset="1" stop-color="#ffd24a"/><animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="5.0s" repeatCount="indefinite"/></linearGradient>
+</defs>
+
+<g>
+  <rect x="10" y="10" width="485" height="112" rx="20" fill="#10172a" stroke="url(#b0)" stroke-width="2.5"/>
+  <rect x="10" y="10" width="6" height="112" rx="3" fill="#00f7ff"/>
+  <text x="62" y="82" text-anchor="middle" font-size="46">🔭
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.0s" repeatCount="indefinite"/></text>
+  <text x="115" y="55" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#00f7ff">BUILDING</text>
+  <text x="115" y="94" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f6ff">ENROLE · MedRx</text>
+  <circle cx="467" cy="38" r="6" fill="#00f7ff"><animate attributeName="r" values="5;9;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+  <rect x="505" y="10" width="485" height="112" rx="20" fill="#10172a" stroke="url(#b1)" stroke-width="2.5"/>
+  <rect x="505" y="10" width="6" height="112" rx="3" fill="#7b2ff7"/>
+  <text x="557" y="82" text-anchor="middle" font-size="46">🧪
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.5s" repeatCount="indefinite"/></text>
+  <text x="610" y="55" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#7b2ff7">RESEARCHING</text>
+  <text x="610" y="94" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f6ff">6G × Machine Learning</text>
+  <circle cx="962" cy="38" r="6" fill="#7b2ff7"><animate attributeName="r" values="5;9;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+  <rect x="10" y="142" width="485" height="112" rx="20" fill="#10172a" stroke="url(#b2)" stroke-width="2.5"/>
+  <rect x="10" y="142" width="6" height="112" rx="3" fill="#2ee59d"/>
+  <text x="62" y="214" text-anchor="middle" font-size="46">🌱
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.0s" repeatCount="indefinite"/></text>
+  <text x="115" y="187" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#2ee59d">LEARNING</text>
+  <text x="115" y="226" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f6ff">System design &amp; LLMs</text>
+  <circle cx="467" cy="170" r="6" fill="#2ee59d"><animate attributeName="r" values="5;9;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+  <rect x="505" y="142" width="485" height="112" rx="20" fill="#10172a" stroke="url(#b3)" stroke-width="2.5"/>
+  <rect x="505" y="142" width="6" height="112" rx="3" fill="#ff6b35"/>
+  <text x="557" y="214" text-anchor="middle" font-size="46">✍️
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.5s" repeatCount="indefinite"/></text>
+  <text x="610" y="187" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#ff6b35">WRITING</text>
+  <text x="610" y="226" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f6ff">Articles on dev.to</text>
+  <circle cx="962" cy="170" r="6" fill="#ff6b35"><animate attributeName="r" values="5;9;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+  <rect x="10" y="274" width="485" height="112" rx="20" fill="#10172a" stroke="url(#b4)" stroke-width="2.5"/>
+  <rect x="10" y="274" width="6" height="112" rx="3" fill="#ff4ecd"/>
+  <text x="62" y="346" text-anchor="middle" font-size="46">🎥
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.0s" repeatCount="indefinite"/></text>
+  <text x="115" y="319" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#ff4ecd">TEACHING</text>
+  <text x="115" y="358" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f6ff">YouTube tutorials</text>
+  <circle cx="467" cy="302" r="6" fill="#ff4ecd"><animate attributeName="r" values="5;9;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g>
+  <rect x="505" y="274" width="485" height="112" rx="20" fill="#10172a" stroke="url(#b5)" stroke-width="2.5"/>
+  <rect x="505" y="274" width="6" height="112" rx="3" fill="#ffd24a"/>
+  <text x="557" y="346" text-anchor="middle" font-size="46">🤝
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5.5s" repeatCount="indefinite"/></text>
+  <text x="610" y="319" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#ffd24a">OPEN TO</text>
+  <text x="610" y="358" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#f2f6ff">Collabs &amp; Internships</text>
+  <circle cx="962" cy="302" r="6" fill="#ffd24a"><animate attributeName="r" values="5;9;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
