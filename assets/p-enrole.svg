@@ -8,7 +8,7 @@
 <text x="28" y="62" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#e6edf3">ENROLE</text>
 <circle cx="280" cy="24" r="5" fill="#d29922"/>
 <text x="292" y="30" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#d29922">In development</text>
-<text x="28" y="108" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" fill="#8b949e">AI-powered interview simulator</text>
+<text x="28" y="108" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" fill="#8b949e">AI interview and recruitment</text><text x="28" y="136" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" fill="#8b949e">workflow platform</text>
 <rect x="28" y="178" width="44" height="32" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/><text x="50" y="199" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#e6edf3">AI</text><rect x="80" y="178" width="79" height="32" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/><text x="119" y="199" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#e6edf3">Python</text>
 
 </svg>
