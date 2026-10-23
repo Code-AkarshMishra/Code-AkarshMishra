@@ -1,22 +1,23 @@
-# Save as: .github/workflows/blog-posts.yml  (in the Code-AkarshMishra/Code-AkarshMishra repo)
 name: Latest Blog Posts
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  update-readme:
+  validate-feed:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://dev.to/feed/codeakarshmishra"
-          max_post_count: 5
-          comment_tag_name: "BLOG-POST"
+      - name: Check DEV feed availability without failing the profile build
+        shell: bash
+        run: |
+          set -euo pipefail
+          FEED_URL="https://dev.to/feed/codeakarshmishra"
+          STATUS="$(curl -L -sS -o /tmp/dev-feed.xml -w '%{http_code}' --max-time 20 "$FEED_URL" || true)"
+          if [[ "$STATUS" == "200" ]] && grep -q '<rss\|<feed\|<channel' /tmp/dev-feed.xml; then
+            echo "DEV RSS feed responds successfully."
+          else
+            echo "::notice::DEV RSS feed unavailable (HTTP ${STATUS:-unknown}). Skipping blog refresh; profile remains unaffected."
+          fi
