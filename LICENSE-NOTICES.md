@@ -1,15 +1,13 @@
-# Third-party asset and service notes
+# External assets and services
 
-- The retro banner/footer SVGs are original artwork created for this profile package.
-- `assets/programmer.png` is derived from the image uploaded in this conversation.
-- Technology marks are loaded from Devicon or skillicons.dev; third-party logos remain the property of their owners.
-- GitHub Profile Trophy: https://github.com/ryo-ma/github-profile-trophy
-- GitHub Readme Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats
-- Contribution Snake: https://github.com/Platane/snk
-- Readme Games: https://github.com/jonasjore/readme-games
-- Profile 3D Contribution: https://github.com/yoshi389111/github-profile-3d-contrib
-- GitHub Metrics: https://github.com/lowlighter/metrics
-- Typing SVG: https://github.com/DenverCoder1/readme-typing-svg
-- Profile visitor counter: https://github.com/antonkomarev/github-profile-views-counter
+- Skill icon grid: https://skillicons.dev (see its own project terms).
+- Badges: https://shields.io
+- GitHub profile trophies: https://github.com/ryo-ma/github-profile-trophy
+- Streak image: https://github.com/denvercoder1/github-readme-streak-stats
+- GitHub stats and languages: https://github.com/anuraghazra/github-readme-stats
+- Activity graph: https://github.com/ashutosh00710/github-readme-activity-graph
+- Typing text: https://github.com/DenverCoder1/readme-typing-svg
+- Profile views: https://github.com/antonkomarev/github-profile-views-counter
+- Original achievement icons are served by GitHub's `githubassets.com` host.
 
-Use external tools in accordance with their licenses and terms. No third-party service uptime is guaranteed by this package.
+Third-party services have their own availability and terms. The custom banner, footer, and developer level SVGs in this package are original generated assets.

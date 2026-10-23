@@ -1,288 +1,175 @@
 <div align="center">
 
-<img src="assets/retro-banner.svg" width="100%" alt="Akarsh Mishra's retro pixel game developer world">
+<img src="assets/header-banner.svg" width="100%" alt="Akarsh Mishra — Full-Stack Developer">
 
-<a href="https://code-akarshmishra.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-355E3B?style=for-the-badge&logo=vercel&logoColor=F8EBC3" alt="Portfolio"></a>
-<a href="https://github.com/Code-AkarshMishra?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_WORLDS-6D4C32?style=for-the-badge&logo=github&logoColor=F8EBC3" alt="GitHub repositories"></a>
-<a href="https://www.linkedin.com/in/code-akarshmishra/"><img src="https://img.shields.io/badge/LINK_UP-286747?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:akarshmishmra3145@gmail.com"><img src="https://img.shields.io/badge/CONTACT-8A5A2B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://code-akarshmishra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20Website-386641?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/Code-AkarshMishra?tab=repositories"><img src="https://img.shields.io/badge/GitHub-View%20Repositories-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"></a>
+<a href="https://www.linkedin.com/in/code-akarshmishra/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:akarshmishmra3145@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8A4F2D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2200&pause=650&color=9CCB72&center=true&vCenter=true&width=900&height=55&lines=FULL+STACK+DEVELOPER;MERN+STACK+DEVELOPER;JAVA+%26+PYTHON+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;FREELANCER+%7C+PRODUCT+BUILDER" alt="Animated rotating developer roles">
-</a>
+<img src="assets/programmer.png" width="250" alt="Programmer working at a computer desk">
 
-<img src="https://komarev.com/ghpvc/?username=Code-AkarshMishra&style=for-the-badge&color=6D8B45&label=PROFILE+VISITORS" alt="Profile visit counter">
+<a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=386641&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;MERN+Stack+Developer;Java+Developer;Python+Developer;Open-Source+Contributor;Freelancer" alt="Full-Stack Developer · MERN Stack Developer · Java Developer · Python Developer · Open-Source Contributor · Freelancer"></a>
 
-</div>
-
----
-
-<div align="center">
-
-## 🟩 PLAYER INVENTORY
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" alt="React logo"><br><b>CLASS</b><br>Full-Stack Builder
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="38" alt="GitHub logo"><br><b>GUILD</b><br>Open Source
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" alt="Python logo"><br><b>SECONDARY SKILL</b><br>AI / ML Explorer
-</td>
-</tr>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java logo"><br>Java Developer</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32" alt="Node.js logo"><br>MERN Stack</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="32" alt="Vercel logo"><br>Freelance / Ship</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=Code-AkarshMishra&label=PROFILE%20VIEWS&color=386641&style=for-the-badge" alt="Profile views">
+<img src="https://img.shields.io/github/followers/Code-AkarshMishra?label=FOLLOWERS&style=for-the-badge&logo=github&color=6F9654" alt="GitHub followers">
+<img src="https://img.shields.io/github/stars/Code-AkarshMishra?affiliations=OWNER%2CCOLLABORATOR&label=REPOSITORY%20STARS&style=for-the-badge&logo=github&color=BC6C25" alt="Repository stars">
 
 </div>
 
-## 🧍 ABOUT THIS PLAYER
+## About
 
-> **PLAYER NAME:** Akarsh Mishra  
-> **SPAWN POINT:** Lucknow, India  
-> **EDUCATION:** B.Tech Computer Science & Engineering · Shri Ramswaroop Memorial University (SRMU), 2023–2027  
-> **CURRENT QUEST:** Turn useful ideas into polished web products; explore AI, machine learning and computer vision.
+I’m a B.Tech Computer Science student at **Shri Ramswaroop Memorial University (SRMU)**, focused on full-stack development, product engineering, and applied AI/ML. I build web applications from UI to API and database, and explore computer vision through research and prototypes.
 
-I build full-stack web applications and prototypes with a product mindset: understand the problem, ship a useful version, test it, and improve it. I work with the MERN ecosystem, Java and Python, and explore AI-assisted products and computer-vision research.
+**Currently interested in:** Full-Stack / MERN Development · Software Engineering · AI-powered products · Open Source
 
-## 🪓 WORLD SELECT — PROJECTS
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟩 ENROLE
-**AI-assisted interview platform**
+### ENROLE
+AI-assisted interview and recruitment platform.
 
-A recruitment and interview-practice product concept designed to make preparation more structured.
-
-[![Open repository](https://img.shields.io/badge/OPEN_WORLD-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-AkarshMishra/ENROLE)
+<a href="https://github.com/Code-AkarshMishra/ENROLE"><img src="https://img.shields.io/badge/View%20Repository-386641?style=for-the-badge&logo=github&logoColor=white" alt="View ENROLE repository"></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 MedRx
-**Medical report interpreter**
+### MedRx
+Medical-report interpretation project focused on making report information easier to understand.
 
-An AI-assisted interface exploring how medical reports can be explained in more accessible language.
-
-[![Repository](https://img.shields.io/badge/REPOSITORY-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-AkarshMishra/MedRx)
-[![Live demo](https://img.shields.io/badge/PLAY_LIVE-8A5A2B?style=for-the-badge&logo=vercel&logoColor=white)](https://medrx-beta.vercel.app)
+<a href="https://github.com/Code-AkarshMishra/MedRx"><img src="https://img.shields.io/badge/View%20Repository-386641?style=for-the-badge&logo=github&logoColor=white" alt="View MedRx repository"></a>
+<a href="https://medrx-beta.vercel.app"><img src="https://img.shields.io/badge/View%20Live%20Project-BC6C25?style=for-the-badge&logo=vercel&logoColor=white" alt="View live MedRx project"></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ WeatherGPT
-**Weather + AI experience**
+### WeatherGPT
+Weather-focused project exploring conversational access to weather information.
 
-A project focused on presenting weather information with a more conversational experience.
-
-[![Open repository](https://img.shields.io/badge/OPEN_WORLD-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-AkarshMishra/WeatherGPT)
+<a href="https://github.com/Code-AkarshMishra/WeatherGPT"><img src="https://img.shields.io/badge/View%20Repository-386641?style=for-the-badge&logo=github&logoColor=white" alt="View WeatherGPT repository"></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Cognitive Load Detector
-**Cognitive fatigue exploration**
+### Cognitive Load Detector
+Privacy-focused prototype for exploring fatigue and cognitive-load signals.
 
-An exploratory, privacy-aware project around cognitive load signals and fatigue analysis.
-
-[![Open repository](https://img.shields.io/badge/OPEN_WORLD-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-AkarshMishra/CognitiveLoadDetector)
+<a href="https://github.com/Code-AkarshMishra/CognitiveLoadDetector"><img src="https://img.shields.io/badge/View%20Repository-386641?style=for-the-badge&logo=github&logoColor=white" alt="View Cognitive Load Detector repository"></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💎 Mahakal Swarn Builder
-**Local business website**
+### Mahakal Swarn Builder
+Business website and customer-facing service experience.
 
-A web experience built to present a jewellery business and its services.
-
-[![Repository](https://img.shields.io/badge/REPOSITORY-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-AkarshMishra/mahakalswarnbuilder)
-[![Live demo](https://img.shields.io/badge/PLAY_LIVE-8A5A2B?style=for-the-badge&logo=vercel&logoColor=white)](https://mahakalswarnbuilder.vercel.app)
+<a href="https://github.com/Code-AkarshMishra/mahakalswarnbuilder"><img src="https://img.shields.io/badge/View%20Repository-386641?style=for-the-badge&logo=github&logoColor=white" alt="View Mahakal Swarn Builder repository"></a>
+<a href="https://mahakalswarnbuilder.vercel.app"><img src="https://img.shields.io/badge/View%20Live%20Project-BC6C25?style=for-the-badge&logo=vercel&logoColor=white" alt="View live Mahakal Swarn Builder project"></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧰 More builds
-**The rest of the inventory**
+### Sparsh Trading
+Trading-related web project.
 
-Browse games, experiments, tools and other prototypes in the repository chest.
-
-[![All repositories](https://img.shields.io/badge/OPEN_REPOSITORY_CHEST-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-AkarshMishra?tab=repositories)
+<a href="https://github.com/Code-AkarshMishra/Sparsh-Trading"><img src="https://img.shields.io/badge/View%20Repository-386641?style=for-the-badge&logo=github&logoColor=white" alt="View Sparsh Trading repository"></a>
+<a href="https://sparshtrading.shop"><img src="https://img.shields.io/badge/View%20Live%20Project-BC6C25?style=for-the-badge&logo=vercel&logoColor=white" alt="View live Sparsh Trading project"></a>
 
 </td>
 </tr>
 </table>
 
-## ⛏️ SKILL TREE — LANGUAGES, TOOLS & FRAMEWORKS
+<p align="center"><a href="https://github.com/Code-AkarshMishra?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-333333?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"></a></p>
+
+## Technologies & Tools
 
 <div align="center">
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=light" alt="JavaScript TypeScript Python Java C++ HTML CSS official technology icons">
-
-**FRONTEND & BACKEND**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express&theme=light" alt="React Next.js Tailwind Node.js Express icons">
-
-**DATABASES, AI & ML**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,tensorflow,pytorch,opencv&theme=light" alt="MongoDB MySQL PostgreSQL TensorFlow PyTorch OpenCV icons">
-
-**WORKBENCH**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,linux,figma,docker&theme=light" alt="Git GitHub Postman Vercel VS Code Linux Figma Docker icons">
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,tensorflow,pytorch,git,github,vercel,postman,vscode&perline=8" alt="Technology logos: JavaScript, TypeScript, Python, Java, C++, HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, MySQL, PostgreSQL, TensorFlow, PyTorch, Git, GitHub, Vercel, Postman and VS Code">
 
 </div>
 
-## 🎒 XP & LEVEL REPORT
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PLAYER_LEVEL-12-355E3B?style=for-the-badge&labelColor=2C261C" alt="Personal gamification level 12">
-<img src="https://img.shields.io/badge/RANK-PRODUCT_CRAFTER-8A5A2B?style=for-the-badge&labelColor=2C261C" alt="Personal gamification rank Product Crafter">
-
-**LEVEL 12 → LEVEL 13**
-
-`███████████████░░░░░`  **750 / 1,000 XP**
-
-</div>
+## Achievements & Milestones
 
 <table>
-<tr><th>Quest completed</th><th>XP reward</th><th>Evidence / progress</th></tr>
-<tr><td>Ship projects and prototypes</td><td>+150 XP</td><td><a href="https://github.com/Code-AkarshMishra?tab=repositories">Project inventory</a></td></tr>
-<tr><td>Research & experiment</td><td>+100 XP</td><td><a href="https://github.com/Code-AkarshMishra">Public profile</a></td></tr>
-<tr><td>Hackathon participation</td><td>+100 XP</td><td>HackWithUP’25 / SIH internal round</td></tr>
-<tr><td>Write, document, share</td><td>+50 XP</td><td><a href="https://dev.to/codeakarshmishmra">DEV profile</a></td></tr>
+<tr><td width="35%"><b>Smart India Hackathon 2026</b></td><td>First rank in the internal hackathon with Team One Percent.</td></tr>
+<tr><td><b>HackWithUP 2025</b></td><td>Finalist / Grand Finale competitor.</td></tr>
+<tr><td><b>Research</b></td><td>Presented research on lightweight CNN-based facial emotion recognition for sustainable Edge AI at ICSI 2.0, SRMU.</td></tr>
+<tr><td><b>Technical community</b></td><td>Technical club documentation and event coordination.</td></tr>
 </table>
 
-<sub>XP and level are a self-managed RPG metaphor, not an official GitHub score. Update the level, bar and rewards yourself as you complete milestones.</sub>
-
-## 🏅 TROPHY ROOM — ACHIEVEMENTS & REPORT CARD
-
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Code-AkarshMishra&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="Live GitHub profile trophies" width="100%">
-</a>
+<a href="https://github.com/Code-AkarshMishra?tab=achievements"><img src="https://img.shields.io/badge/View%20All%20GitHub%20Achievements-333333?style=for-the-badge&logo=github&logoColor=white" alt="View all original GitHub achievements"></a>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/Code-AkarshMishra?tab=achievements">
-<img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="68" alt="GitHub Starstruck achievement"><br>
-<b>GITHUB ACHIEVEMENTS</b>
-</a><br>
-<sub>Open original achievement page</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/Code-AkarshMishra?tab=achievements">
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="68" alt="GitHub Pull Shark achievement"><br>
-<b>ACHIEVEMENT CASE</b>
-</a><br>
-<sub>See badges actually unlocked on GitHub</sub>
-</td>
-</tr>
-</table>
+<a href="https://github.com/Code-AkarshMishra?achievement=starstruck&tab=achievements"><img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="74" alt="Open Starstruck achievement" title="Starstruck — view achievement"></a>
+<a href="https://github.com/Code-AkarshMishra?achievement=galaxy-brain&tab=achievements"><img src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" width="74" alt="Open Galaxy Brain achievement" title="Galaxy Brain — view achievement"></a>
+<a href="https://github.com/Code-AkarshMishra?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="74" alt="Open Pull Shark achievement" title="Pull Shark — view achievement"></a>
+<a href="https://github.com/Code-AkarshMishra?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="74" alt="Open YOLO achievement" title="YOLO — view achievement"></a>
+<a href="https://github.com/Code-AkarshMishra?achievement=quickdraw&tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="74" alt="Open Quickdraw achievement" title="Quickdraw — view achievement"></a>
 
 </div>
 
-| Grade | Milestone | Detail |
-|:--:|---|---|
-| **S** | SIH 2026 internal round | First rank with Team One Percent, based on details shared for the project |
-| **A** | HackWithUP’25 | Finalist / Grand Finale competitor |
-| **A** | Research | Presented lightweight CNN facial-emotion recognition for sustainable Edge AI at ICSI 2.0, SRMU |
-| **A** | Builder | Developing full-stack projects and AI/ML prototypes |
-
-[![GitHub profile](https://img.shields.io/badge/VIEW-ORIGINAL_GITHUB_ACHIEVEMENTS-355E3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-AkarshMishra?tab=achievements)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-OPEN_PROFILE-D78C28?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/code_akarshmishmra/)
-[![HackerRank](https://img.shields.io/badge/HACKERRANK-OPEN_PROFILE-2E7D32?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/CodeAkarshMishra)
-
-## 📜 LIVE REPORT CARD — STREAK & STATS
+## Developer Growth Level
 
 <div align="center">
 
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-<img src="https://streak-stats.demolab.com?user=Code-AkarshMishra&theme=default&hide_border=true&background=F4E6C8&ring=548B3F&fire=8A5A2B&currStreakLabel=355E3B&sideLabels=355E3B&currStreakNum=2C261C&sideNums=2C261C&dates=6D5A3D" alt="Live GitHub contribution streak" width="100%">
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=F4E6C8&title_color=355E3B&icon_color=8A5A2B&text_color=2C261C" alt="GitHub contribution statistics" width="49%">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&langs_count=8&hide_border=true&bg_color=F4E6C8&title_color=355E3B&text_color=2C261C" alt="Most-used languages" width="49%">
-</a>
+<img src="assets/developer-level.svg" width="100%" alt="Custom developer growth level and XP progress">
 
 </div>
 
-<sub>Streak, repository statistics and language cards are live third-party images. They can temporarily rate-limit or go offline. GitHub's official profile page remains the source of truth for contribution counts.</sub>
+The profile's custom XP score is calculated from documented milestones; it is a profile-design metric, **not an official GitHub rank or academic grade**.
 
-## 🐍 CONTRIBUTION GARDEN
+<details>
+<summary><b>How the level is calculated</b></summary>
+
+| Milestone | Rule | XP |
+|:--|:--|--:|
+| MedRx live deployment | 1 × 150 XP | 150 |
+| Mahakal Swarn Builder live deployment | 1 × 150 XP | 150 |
+| Sparsh Trading live deployment | 1 × 150 XP | 150 |
+| SIH 2026 internal first rank | milestone | 300 |
+| HackWithUP 2025 finalist | milestone | 150 |
+| ICSI 2.0 research presentation | milestone | 200 |
+| **Total** | | **1,100 XP** |
+
+**Formula:** `Level = floor(Total XP / 1,000) + 1`.
+
+At 1,100 XP, the profile is at **Level 2**, with **100 / 1,000 XP** toward Level 3. Keep these custom XP values updated as milestones change.
+
+</details>
+
+## GitHub Statistics
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/output/github-snake.svg" alt="Contribution snake animation" width="100%">
-</picture>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Code-AkarshMishra&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%" alt="GitHub profile trophies"></a>
 
-<a href="https://github.com/Platane/snk"><img src="https://img.shields.io/badge/SNAKE_ANIMATION-SOURCE-548B3F?style=for-the-badge&logo=github&logoColor=white" alt="Contribution snake source"></a>
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=Code-AkarshMishra&background=F8F6EE&border=D7D0BD&stroke=81936B&ring=BC6C25&fire=BC6C25&currStreakNum=243629&sideNums=243629&currStreakLabel=386641&sideLabels=5D6054&dates=77776B&hide_border=true" width="100%" alt="GitHub contribution streak"></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=F8F6EE&title_color=386641&text_color=333333&icon_color=BC6C25" width="49%" alt="GitHub statistics and rank"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&langs_count=8&hide_border=true&bg_color=F8F6EE&title_color=386641&text_color=333333" width="49%" alt="Top programming languages"></a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-AkarshMishra&bg_color=F8F6EE&color=386641&line=6F9654&point=BC6C25&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"></a>
 
 </div>
 
-## 🗺️ WORLD MAP & 3D SKYLINE
+## Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/u/code_akarshmishra/"><img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode profile"></a>
+<a href="https://www.hackerrank.com/CodeAkarshMishra"><img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="View HackerRank profile"></a>
+<a href="https://github.com/Code-AkarshMishra?tab=achievements"><img src="https://img.shields.io/badge/GitHub-View%20Achievements-333333?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub achievements"></a>
+</p>
 
 <div align="center">
 
-<a href="https://github.com/lowlighter/metrics">
-<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/metrics/github-metrics.svg" alt="Optional GitHub metrics map — requires Metrics workflow setup" width="100%">
-</a>
-
-<a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-<img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/profile-3d-contrib/profile-green-animate.svg" alt="Optional 3D contribution skyline — requires workflow setup" width="100%">
-</a>
-
-</div>
-
-<sub>The map and 3D skyline are optional generated assets. Enable their upstream workflows to publish these files before expecting them to render.</sub>
-
-## 🎮 ARCADE — ENTER A MINI-GAME
-
-<div align="center">
-
-<a href="https://github.com/jonasjore/readme-games">
-<img src="https://img.shields.io/badge/PLAY-TIC--TAC--TOE-355E3B?style=for-the-badge&logo=github&logoColor=white" alt="Tic Tac Toe game collection">
-</a>
-<a href="https://github.com/jonasjore/readme-games">
-<img src="https://img.shields.io/badge/PLAY-CONNECT_FOUR-8A5A2B?style=for-the-badge&logo=github&logoColor=white" alt="Connect Four game collection">
-</a>
-
-</div>
-
-GitHub README cannot execute embedded JavaScript, so the game badges open the Readme Games project where the playable mini-games and setup are hosted.
-
-## 📡 CONNECT WITH THE PLAYER
-
-<div align="center">
-
-<a href="https://code-akarshmishra.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-355E3B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/code-akarshmishmra/"><img src="https://img.shields.io/badge/LINKEDIN-286747?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://dev.to/codeakarshmishmra"><img src="https://img.shields.io/badge/DEV.TO-201D17?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community"></a>
-<a href="https://www.youtube.com/@code-akarshmishmra"><img src="https://img.shields.io/badge/YOUTUBE-8A3A2A?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="mailto:akarshmishmra3145@gmail.com"><img src="https://img.shields.io/badge/EMAIL-6D4C32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-<img src="assets/retro-footer.svg" width="100%" alt="Save point reached retro footer">
+<img src="assets/footer-banner.svg" width="100%" alt="Build thoughtfully. Ship consistently.">
 
 </div>
