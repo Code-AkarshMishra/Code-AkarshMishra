@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-labelledby="title">
+<title id="title">Build thoughtfully. Ship consistently.</title>
+<rect x="4" y="4" width="1192" height="102" rx="15" fill="#243629" stroke="#81936b" stroke-width="2"/>
+<g fill="#79a35a"><rect x="36" y="28" width="12" height="12"/><rect x="48" y="40" width="12" height="12"/><rect x="36" y="52" width="12" height="12"/><rect x="60" y="28" width="12" height="12"/></g>
+<text x="600" y="50" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#fff8e9">Build thoughtfully. Ship consistently.</text>
+<text x="600" y="77" text-anchor="middle" font-family="monospace" font-size="14" fill="#d8e8c7">Thanks for visiting · Portfolio · Projects · Open Source</text>
+<g fill="#d8a35d"><rect x="1120" y="40" width="12" height="12"/><rect x="1132" y="52" width="12" height="12"/><rect x="1144" y="40" width="12" height="12"/><rect x="1132" y="28" width="12" height="12"/></g>
+</svg>
