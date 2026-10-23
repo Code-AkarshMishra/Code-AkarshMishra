@@ -4,20 +4,20 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 2 * * *"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
 
-concurrency:
-  group: contribution-snake
-  cancel-in-progress: true
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     steps:
-      - name: Generate contribution snake SVGs
+      - name: Generate light and dark snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Code-AkarshMishra
@@ -25,8 +25,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish generated SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist

@@ -1,4 +1,4 @@
-name: Latest Blog Posts
+name: Latest Blog Posts Feed Check
 
 on:
   workflow_dispatch:
@@ -7,17 +7,17 @@ permissions:
   contents: read
 
 jobs:
-  validate-feed:
+  check-feed:
     runs-on: ubuntu-latest
+    timeout-minutes: 2
     steps:
-      - name: Check DEV feed availability without failing the profile build
+      - name: Check DEV feed without failing the workflow
         shell: bash
         run: |
-          set -euo pipefail
-          FEED_URL="https://dev.to/feed/codeakarshmishra"
-          STATUS="$(curl -L -sS -o /tmp/dev-feed.xml -w '%{http_code}' --max-time 20 "$FEED_URL" || true)"
-          if [[ "$STATUS" == "200" ]] && grep -q '<rss\|<feed\|<channel' /tmp/dev-feed.xml; then
-            echo "DEV RSS feed responds successfully."
+          FEED_URL="https://dev.to/feed/codeakarshmishmra"
+          if curl --location --silent --show-error --fail --max-time 15 "$FEED_URL" -o /tmp/dev-feed.xml; then
+            echo "DEV feed responded successfully. Confirm the URL before enabling blog automation."
+            head -c 220 /tmp/dev-feed.xml || true
           else
-            echo "::notice::DEV RSS feed unavailable (HTTP ${STATUS:-unknown}). Skipping blog refresh; profile remains unaffected."
+            echo "::warning::DEV feed returned an error or is unavailable. Workflow will remain successful; README was not modified."
           fi
