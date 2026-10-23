@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/code-akarshmishra/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:akarshmishmra3145@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8A4F2D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<img src="assets/programmer.png" width="250" alt="Programmer working at a computer desk">
+<img src="assets/programmer.gif" alt="Akarsh working at his desk" width="300">
 
 <a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2200&pause=700&color=386641&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;MERN+Stack+Developer;Java+Developer;Python+Developer;Open-Source+Contributor;Freelancer" alt="Full-Stack Developer · MERN Stack Developer · Java Developer · Python Developer · Open-Source Contributor · Freelancer"></a>
 
