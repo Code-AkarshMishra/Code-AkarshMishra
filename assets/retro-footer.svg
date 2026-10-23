@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="145" viewBox="0 0 1200 145" role="img" aria-label="Retro game save screen footer">
+<rect x="4" y="4" width="1192" height="137" rx="4" fill="#34271b" stroke="#dfc783" stroke-width="5"/>
+<rect x="12" y="12" width="1176" height="28" fill="#70a647"/>
+<path d="M12 40H1188M12 72H1188M12 104H1188" stroke="#80512e" stroke-width="3"/>
+<text x="600" y="70" text-anchor="middle" font-family="monospace" font-size="29" font-weight="bold" fill="#fff0bc">SAVE POINT REACHED</text>
+<text x="600" y="103" text-anchor="middle" font-family="monospace" font-size="17" fill="#d6efab">THANKS FOR VISITING MY DEVELOPER WORLD • GG WP</text>
+<rect x="35" y="113" width="1130" height="13" fill="#1e2819" stroke="#a1c66a" stroke-width="2"/>
+<rect x="35" y="113" width="800" height="13" fill="#a1c66a"/>
+</svg>

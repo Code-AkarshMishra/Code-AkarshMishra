@@ -1,5 +1,5 @@
-# Workflow diagnosis
+# Old workflow failure
 
-The inspected `.github/workflows/blog-posts.yml` used `gautamkrishnar/blog-post-workflow@v1` to fetch `https://dev.to/feed/codeakarshmishra`. The latest inspected run (`Latest Blog Posts #59`, 2026-10-23) failed at that action step. Its log explicitly reported HTTP 404 from the feed, with zero posts fetched. The root cause is the configured feed URL returning 404, not Markdown rendering.
+The existing `Latest Blog Posts` workflow failed because its configured `https://dev.to/feed/codeakarshmishra` endpoint returned HTTP 404 in the inspected GitHub Actions logs (2026-10-23). This replacement package removes automated RSS publishing, so an incorrect feed cannot keep causing failed scheduled runs. `blog-posts.yml` is no longer included here.
 
-The new workflow changes the behaviour: it is manual-only and treats a missing feed as a notice. It will not update README or fail while the feed URL is broken. When the correct RSS URL is known, replace the check with a feed publisher and add matching `<!-- BLOG-POST-LIST:START -->` / `<!-- BLOG-POST-LIST:END -->` markers before enabling scheduled commits.
+To reintroduce blog posts later, first verify your current DEV RSS URL in a browser, restore a `<!-- BLOG-POST-LIST:START -->` / `<!-- BLOG-POST-LIST:END -->` marker pair in the README, and test with a manual workflow dispatch before adding a schedule.

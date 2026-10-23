@@ -1,31 +1,44 @@
-# Gamified GitHub Profile — setup
+# Akarsh Retro Pixel Profile — Install guide
 
-## Install the profile
+## Upload
 
-1. Download and extract the ZIP.
-2. Open `Code-AkarshMishra/Code-AkarshMishra` on GitHub.
-3. Replace `README.md` with the included `README.md` and upload `assets/arcade-banner.svg`, `assets/arcade-footer.svg`, and `.github/workflows/` preserving paths.
-4. Commit the changes to `main`.
-5. Open **Settings → Actions → General → Workflow permissions**. Select **Read and write permissions** so the contribution-snake workflow can publish generated SVGs to the `output` branch.
-6. Go to **Actions → Generate Contribution Snake → Run workflow** to create the first animation.
-7. The README references the generated SVG at `output/github-snake.svg` and `output/github-snake-dark.svg`. The files show after a successful run.
+1. Download and extract this ZIP.
+2. In `Code-AkarshMishra/Code-AkarshMishra`, upload/replace the included `README.md`, `assets/` and `.github/workflows/` directories, keeping their exact paths.
+3. Commit the changes to `main`.
 
-## About workflow failures
+## What the README includes
 
-The existing blog workflow failed because `https://dev.to/feed/codeakarshmishra` returned **HTTP 404** on the latest inspected run. The updated `Latest Blog Posts` workflow is intentionally a manual, non-blocking feed check; it does not try to edit the README or fail when the external feed is unavailable. Once the correct DEV RSS feed URL is confirmed, it can be re-enabled as an actual publisher.
+- Hand-made Minecraft / retro pixel-style banner and footer, in earthy grass, wood, dirt and emerald colours.
+- Workstation illustration you supplied (file is stored locally as `assets/programmer.png`).
+- Animated rotating role text for full-stack, MERN, Java, Python, open-source and freelance roles.
+- Original icon resources from Devicon and skillicons.dev.
+- Project links, live demo links, GitHub achievement links, trophies, streaks, stats, profile views, RPG-style XP/level and grade report card.
+- Contribution snake and optional metrics/3D contribution workflows.
 
-The Snake workflow is kept separately. It needs write permission for repository contents and relies on external GitHub Actions/service availability. Avoid setting a schedule more frequently than needed.
+## Enable GitHub Actions
 
-## Optional: GitHub Metrics map
+Open **Settings → Actions → General → Workflow permissions**. Grant read/write repository contents only if repository policy allows it. Then manually run the workflows from the **Actions** tab.
 
-The README includes a placeholder for `metrics/github-metrics.svg`. GitHub README Markdown cannot generate this file by itself. To enable it, follow the upstream setup at https://github.com/lowlighter/metrics and add a workflow from that project. It is deliberately not included in the default Actions set so the profile does not gain another potentially brittle scheduled workflow.
+- `Generate Contribution Snake` publishes `github-snake.svg` and `github-snake-dark.svg` to the `output` branch.
+- `Generate GitHub Metrics Map` is optional and depends on the upstream Metrics action. The default configuration only uses the standard token; additional private/contribution features may need extra token scopes.
+- `Generate 3D Contribution Skyline` is optional and depends on its upstream action. If it fails because the upstream action or current workflow configuration changes, disable this optional workflow; it doesn't affect the README or snake workflow.
 
-## Mini-games
+## Known external dependencies
 
-README files do not execute JavaScript. The Arcade Corner links to mini-games hosted by Readme Games instead of pretending there is an embedded game running inside GitHub.
+Trophy, streak, stats, skillicons, typing SVG and profile-view count are third-party image services. Their uptime/rate limits are outside GitHub README control. Profile visits count only after the external counter image loads.
 
-## Before committing
+The README cannot host JavaScript games inline. Game buttons link to the Readme Games repository instead of faking an embedded game.
 
-- Confirm all repository links and public demos still point to the intended project.
-- Edit the manual RPG Level/XP values when your milestones change.
-- External stats services can rate-limit or go offline. A third-party image failing does not indicate that your GitHub Actions workflow failed.
+## Personal XP / grades
+
+The XP amount (Level 12; 750 / 1,000), task XP and grade report are **personal gamification values**, not official GitHub measurements or a school result. Change them to match your current goals. Keep actual achievements linked to their original pages; don't label the RPG score as an official result.
+
+## Link maintenance
+
+Verify your profile handle links (LeetCode, HackerRank, DEV, LinkedIn) before sharing. Third-party usernames are preserved from the provided profile history; update any that are incorrect.
+
+## Safe checks
+
+- Confirm the profile repository is public.
+- Check Actions logs for workflow-specific failures.
+- If a dynamic image does not appear, open its image URL in a browser; distinguish an external service outage from an Actions run failure.
