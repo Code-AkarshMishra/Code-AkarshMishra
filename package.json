@@ -12,6 +12,7 @@
   "dependencies": {
     "@upstash/ratelimit": "^2.2.0",
     "@upstash/redis": "^1.40.0",
+    "canvas-confetti": "^1.9.4",
     "framer-motion": "^12.34.5",
     "googleapis": "^188.0.0",
     "lucide-react": "^0.576.0",

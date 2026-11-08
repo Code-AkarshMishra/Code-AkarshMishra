@@ -1,5 +1,5 @@
 ﻿'use client';
-
+import DiwaliFireworks from "@/components/DiwaliFireworks";
 import { AnimatePresence, motion, useReducedMotion, useScroll, useSpring } from 'framer-motion';
 import {
   ArrowRight,
@@ -319,6 +319,9 @@ export default function Portfolio() {
   return (
     <main className="min-h-screen overflow-x-hidden font-sans text-ink bg-cyber-bg selection:bg-cyber-emerald selection:text-white">
       {/* Top Scroll Indicator */}
+
+      <DiwaliFireworks />
+
       <motion.div className="fixed left-0 right-0 top-0 z-[110] h-0.5 origin-left bg-cyber-blue" style={{ scaleX }} />
 
       {/* Navigation Header */}
@@ -377,7 +380,6 @@ export default function Portfolio() {
               </AnimatePresence>
             </div>
           </div>
-
           {/* Global Command Search */}
           <GlobalSearchNav
             onOpenDoc={(title, path) => setSelectedImage({ title, image: path })}
@@ -546,11 +548,10 @@ export default function Portfolio() {
                     <button
                       key={tab.id}
                       onClick={() => setProjectCategoryFilter(tab.id as typeof projectCategoryFilter)}
-                      className={`rounded-xl px-3 py-1.5 text-xs font-bold transition duration-200 border ${
-                        projectCategoryFilter === tab.id
-                          ? 'bg-cyber-blue border-cyber-blue text-white shadow-glow-blue/20'
-                          : 'border-sand bg-cyber-card text-taupe hover:text-ink'
-                      }`}
+                      className={`rounded-xl px-3 py-1.5 text-xs font-bold transition duration-200 border ${projectCategoryFilter === tab.id
+                        ? 'bg-cyber-blue border-cyber-blue text-white shadow-glow-blue/20'
+                        : 'border-sand bg-cyber-card text-taupe hover:text-ink'
+                        }`}
                     >
                       {tab.label}
                     </button>
@@ -632,7 +633,7 @@ export default function Portfolio() {
                   className="w-full rounded-2xl border border-sand bg-cyber-card px-5 py-3 pl-12 text-sm font-semibold text-ink placeholder-taupe/60 outline-none focus:border-cyber-blue focus:ring-1 focus:ring-cyber-blue/35 transition"
                 />
                 <span className="absolute left-4 top-1/2 -translate-y-1/2 text-taupe/60">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8" /><path d="m21 21-4.3-4.3" /></svg>
                 </span>
                 {searchQuery && (
                   <button
@@ -649,11 +650,10 @@ export default function Portfolio() {
                   <button
                     key={tab.id}
                     onClick={() => setActiveTab(tab.id)}
-                    className={`rounded-xl px-3.5 py-2 text-xs font-bold transition duration-200 border ${
-                      activeTab === tab.id
-                        ? 'bg-cyber-blue border-cyber-blue text-white shadow-glow-blue/20'
-                        : 'border-sand bg-cyber-card text-taupe hover:text-ink'
-                    }`}
+                    className={`rounded-xl px-3.5 py-2 text-xs font-bold transition duration-200 border ${activeTab === tab.id
+                      ? 'bg-cyber-blue border-cyber-blue text-white shadow-glow-blue/20'
+                      : 'border-sand bg-cyber-card text-taupe hover:text-ink'
+                      }`}
                   >
                     {tab.label}
                   </button>
@@ -1047,62 +1047,61 @@ export default function Portfolio() {
                   </span>
                 </summary>
                 <div className="mt-5 space-y-5">
-                {[
-                  { sem: 'Semester 1', sgpa: 7.86, isScore: true,  color: 'bg-sky-500',     glow: 'shadow-[0_0_8px_rgba(14,165,233,0.35)]',  note: 'Foundation Year',  pdf: '/Results/Semester 1.pdf', chipColor: 'text-sky-700 bg-sky-100 border-sky-300/50 hover:bg-sky-500 hover:text-white hover:border-sky-500' },
-                  { sem: 'Semester 2', sgpa: 8.58, isScore: true,  color: 'bg-emerald-500', glow: 'shadow-[0_0_8px_rgba(16,185,129,0.35)]',  note: 'Best Semester ★',  pdf: '/Results/Semester 2.pdf', chipColor: 'text-emerald-700 bg-emerald-100 border-emerald-300/50 hover:bg-emerald-500 hover:text-white hover:border-emerald-500' },
-                  { sem: 'Semester 3', sgpa: 8.18, isScore: true,  color: 'bg-violet-500',  glow: 'shadow-[0_0_8px_rgba(139,92,246,0.35)]', note: '',                 pdf: '/Results/Semester 3.pdf', chipColor: 'text-violet-700 bg-violet-100 border-violet-300/50 hover:bg-violet-500 hover:text-white hover:border-violet-500' },
-                  { sem: 'Semester 4', sgpa: 8.48, isScore: true,  color: 'bg-amber-500',   glow: 'shadow-[0_0_8px_rgba(245,158,11,0.35)]', note: '',                 pdf: '/Results/semester 4.pdf', chipColor: 'text-amber-700 bg-amber-100 border-amber-300/50 hover:bg-amber-500 hover:text-white hover:border-amber-500' },
-                  { sem: 'Semester 5', sgpa: 8.33, isScore: true,  color: 'bg-rose-500',    glow: 'shadow-[0_0_8px_rgba(244,63,94,0.35)]',  note: '',                 pdf: '/Results/Semester 5.pdf', chipColor: 'text-rose-700 bg-rose-100 border-rose-300/50 hover:bg-rose-500 hover:text-white hover:border-rose-500' },
-                  { sem: 'Semester 6', sgpa: 8.22, isScore: true,  color: 'bg-cyan-500',    glow: 'shadow-[0_0_8px_rgba(6,182,212,0.35)]',   note: 'Completed',        pdf: '/Results/SEMESTER6.pdf', chipColor: 'text-cyan-700 bg-cyan-100 border-cyan-300/50 hover:bg-cyan-500 hover:text-white hover:border-cyan-500' },
-                  { sem: 'Semester 7', sgpa: 0, isScore: false, label: 'Ongoing', color: 'bg-indigo-500', glow: 'shadow-[0_0_8px_rgba(99,102,241,0.35)]', note: 'In Progress (Active)', chipColor: 'text-indigo-700 bg-indigo-100 border-indigo-300/50' },
-                  { sem: 'Semester 8', sgpa: 0, isScore: false, label: 'Upcoming', color: 'bg-slate-400',  glow: '',                                        note: 'Final Semester',   chipColor: 'text-slate-600 bg-slate-100 border-slate-300/50' },
-                ].map((item, i) => (
-                  <div key={i} className="space-y-2">
-                    <div className="flex items-center justify-between">
-                      <div className="flex items-center gap-2 flex-wrap">
-                        <span className="text-xs font-bold text-ink">{item.sem}</span>
-                        {item.note && (
-                          <span className={`text-[9px] font-bold rounded-full px-1.5 py-0.5 ${
-                            item.note.includes('★')
+                  {[
+                    { sem: 'Semester 1', sgpa: 7.86, isScore: true, color: 'bg-sky-500', glow: 'shadow-[0_0_8px_rgba(14,165,233,0.35)]', note: 'Foundation Year', pdf: '/Results/Semester 1.pdf', chipColor: 'text-sky-700 bg-sky-100 border-sky-300/50 hover:bg-sky-500 hover:text-white hover:border-sky-500' },
+                    { sem: 'Semester 2', sgpa: 8.58, isScore: true, color: 'bg-emerald-500', glow: 'shadow-[0_0_8px_rgba(16,185,129,0.35)]', note: 'Best Semester ★', pdf: '/Results/Semester 2.pdf', chipColor: 'text-emerald-700 bg-emerald-100 border-emerald-300/50 hover:bg-emerald-500 hover:text-white hover:border-emerald-500' },
+                    { sem: 'Semester 3', sgpa: 8.18, isScore: true, color: 'bg-violet-500', glow: 'shadow-[0_0_8px_rgba(139,92,246,0.35)]', note: '', pdf: '/Results/Semester 3.pdf', chipColor: 'text-violet-700 bg-violet-100 border-violet-300/50 hover:bg-violet-500 hover:text-white hover:border-violet-500' },
+                    { sem: 'Semester 4', sgpa: 8.48, isScore: true, color: 'bg-amber-500', glow: 'shadow-[0_0_8px_rgba(245,158,11,0.35)]', note: '', pdf: '/Results/semester 4.pdf', chipColor: 'text-amber-700 bg-amber-100 border-amber-300/50 hover:bg-amber-500 hover:text-white hover:border-amber-500' },
+                    { sem: 'Semester 5', sgpa: 8.33, isScore: true, color: 'bg-rose-500', glow: 'shadow-[0_0_8px_rgba(244,63,94,0.35)]', note: '', pdf: '/Results/Semester 5.pdf', chipColor: 'text-rose-700 bg-rose-100 border-rose-300/50 hover:bg-rose-500 hover:text-white hover:border-rose-500' },
+                    { sem: 'Semester 6', sgpa: 8.22, isScore: true, color: 'bg-cyan-500', glow: 'shadow-[0_0_8px_rgba(6,182,212,0.35)]', note: 'Completed', pdf: '/Results/SEMESTER6.pdf', chipColor: 'text-cyan-700 bg-cyan-100 border-cyan-300/50 hover:bg-cyan-500 hover:text-white hover:border-cyan-500' },
+                    { sem: 'Semester 7', sgpa: 0, isScore: false, label: 'Ongoing', color: 'bg-indigo-500', glow: 'shadow-[0_0_8px_rgba(99,102,241,0.35)]', note: 'In Progress (Active)', chipColor: 'text-indigo-700 bg-indigo-100 border-indigo-300/50' },
+                    { sem: 'Semester 8', sgpa: 0, isScore: false, label: 'Upcoming', color: 'bg-slate-400', glow: '', note: 'Final Semester', chipColor: 'text-slate-600 bg-slate-100 border-slate-300/50' },
+                  ].map((item, i) => (
+                    <div key={i} className="space-y-2">
+                      <div className="flex items-center justify-between">
+                        <div className="flex items-center gap-2 flex-wrap">
+                          <span className="text-xs font-bold text-ink">{item.sem}</span>
+                          {item.note && (
+                            <span className={`text-[9px] font-bold rounded-full px-1.5 py-0.5 ${item.note.includes('★')
                               ? 'text-emerald-700 bg-emerald-100 border border-emerald-300/40'
                               : item.note.includes('Progress')
-                              ? 'text-indigo-700 bg-indigo-100 border border-indigo-300/40'
-                              : 'text-taupe bg-black/5 border border-sand'
-                          }`}>
-                            {item.note}
+                                ? 'text-indigo-700 bg-indigo-100 border border-indigo-300/40'
+                                : 'text-taupe bg-black/5 border border-sand'
+                              }`}>
+                              {item.note}
+                            </span>
+                          )}
+                        </div>
+                        <div className="flex items-center gap-2">
+                          <span className="text-sm font-extrabold text-ink font-mono">
+                            {item.isScore ? item.sgpa : item.label}
                           </span>
-                        )}
+                          {item.pdf ? (
+                            <button
+                              onClick={() => setSelectedImage({ title: `${item.sem} Official Examination Result`, image: item.pdf! })}
+                              className={`inline-flex items-center gap-1 rounded-full border px-2 py-0.5 text-[9px] font-bold uppercase tracking-wide transition duration-150 ${item.chipColor}`}
+                            >
+                              <FileText size={9} />
+                              Result PDF
+                            </button>
+                          ) : (
+                            <span className={`inline-flex items-center gap-1 rounded-full border px-2 py-0.5 text-[9px] font-bold uppercase tracking-wide ${item.chipColor}`}>
+                              {item.label}
+                            </span>
+                          )}
+                        </div>
                       </div>
-                      <div className="flex items-center gap-2">
-                        <span className="text-sm font-extrabold text-ink font-mono">
-                          {item.isScore ? item.sgpa : item.label}
-                        </span>
-                        {item.pdf ? (
-                          <button
-                            onClick={() => setSelectedImage({ title: `${item.sem} Official Examination Result`, image: item.pdf! })}
-                            className={`inline-flex items-center gap-1 rounded-full border px-2 py-0.5 text-[9px] font-bold uppercase tracking-wide transition duration-150 ${item.chipColor}`}
-                          >
-                            <FileText size={9} />
-                            Result PDF
-                          </button>
-                        ) : (
-                          <span className={`inline-flex items-center gap-1 rounded-full border px-2 py-0.5 text-[9px] font-bold uppercase tracking-wide ${item.chipColor}`}>
-                            {item.label}
-                          </span>
-                        )}
+                      <div className="h-3 w-full rounded-full bg-sand overflow-hidden">
+                        <motion.div
+                          initial={{ width: 0 }}
+                          whileInView={{ width: item.isScore ? `${(item.sgpa / 10) * 100}%` : '0%' }}
+                          viewport={{ once: true }}
+                          transition={{ duration: prefersReducedMotion ? 0 : 0.8, delay: prefersReducedMotion ? 0 : i * 0.08, ease: 'easeOut' }}
+                          className={`h-full rounded-full ${item.color} ${item.glow} `}
+                        />
                       </div>
                     </div>
-                    <div className="h-3 w-full rounded-full bg-sand overflow-hidden">
-                      <motion.div
-                        initial={{ width: 0 }}
-                        whileInView={{ width: item.isScore ? `${(item.sgpa / 10) * 100}%` : '0%' }}
-                        viewport={{ once: true }}
-                        transition={{ duration: prefersReducedMotion ? 0 : 0.8, delay: prefersReducedMotion ? 0 : i * 0.08, ease: 'easeOut' }}
-                        className={`h-full rounded-full ${item.color} ${item.glow} `}
-                      />
-                    </div>
-                  </div>
-                ))}
+                  ))}
                 </div>
               </details>
             </div>
