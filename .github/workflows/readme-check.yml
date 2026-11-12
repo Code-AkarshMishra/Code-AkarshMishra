@@ -1,0 +1,36 @@
+name: Validate Profile README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "scripts/validate_profile.py"
+      - "assets/**"
+      - ".github/workflows/readme-check.yml"
+  pull_request:
+    paths:
+      - "README.md"
+      - "scripts/validate_profile.py"
+      - "assets/**"
+      - ".github/workflows/readme-check.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate README and bundled assets
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.x"
+      - name: Sync existing Next.js portfolio media
+        run: python scripts/sync_existing_media.py
+      - name: Validate profile README
+        run: python scripts/validate_profile.py --require-media

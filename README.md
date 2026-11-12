@@ -1,158 +1,293 @@
-# Akarsh Mishra | Developer Portfolio
+# Akarsh Mishra | Software Engineer, Full-Stack Developer & AI/ML
 
-<p align="center">
-  <a href="https://code-akarshmishra.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-0A0F1C?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
-  </a>
-  <a href="https://github.com/Code-AkarshMishra/akarsh-portfolio">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code" />
-  </a>
-  <a href="https://www.linkedin.com/in/akarshmishra1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+**Akarsh Mishra** is a Computer Science and Engineering undergraduate at **Shri Ramswaroop Memorial University (SRMU), India**. I build full-stack web applications with **JavaScript, TypeScript, React, Next.js, Node.js, Express and MongoDB**, and explore **applied AI/ML, computer vision and Edge AI** using Python and deep-learning frameworks.
 
-<p align="center">
-  A personal portfolio presenting my projects, technical skills, experience, research interests, certifications, and contact information.
-</p>
+<div align="center">
+
+<img src="assets/header-banner.svg" width="100%" alt="Akarsh Mishra — Full-Stack Developer and AI/ML"/>
+
+<table>
+<tr>
+<td width="27%" align="center" valign="middle">
+<img src="assets/photos/profile.jpg" width="170" alt="Akarsh Mishra professional profile photograph"/>
+</td>
+<td width="73%" valign="middle">
+
+### Full-Stack Development · Applied AI/ML · Computer Vision
+
+B.Tech CSE (2023–2027) at SRMU. Interested in software engineering, scalable web products, backend systems, intelligent applications, and research-driven engineering.
+
+<a href="https://code-akarshmishra.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/code-akarshmishra/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:akarshmishmra3145@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Code-AkarshMishra?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-24292F?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
+
+</td>
+</tr>
+</table>
+
+<img src="assets/programmer.gif" width="340" alt="Looping animation of a software developer coding at a computer"/>
+
+*Build thoughtfully. Ship consistently. Keep learning.*
+
+</div>
 
 ---
 
-## About the Portfolio
+## Engineering Profile
 
-I'm **Akarsh Mishra**, a Computer Science and Engineering student at **Shri Ramswaroop Memorial University (SRMU), Lucknow**. I am interested in full-stack development, artificial intelligence, machine learning, and building software that addresses practical problems.
+I work across frontend, backend, APIs, databases, deployment, and applied machine learning. My approach is product-oriented: understand the user problem, design a maintainable solution, verify the important paths, and improve from feedback.
 
-This website serves as a central place to explore my work, follow what I'm learning, and connect with me professionally.
+| Area | Current focus |
+|---|---|
+| **Software engineering** | Full-stack web development, REST API design, application architecture |
+| **Frontend** | React, Next.js, JavaScript, TypeScript, responsive interfaces |
+| **Backend** | Node.js, Express.js, API integration, authentication and server-side logic |
+| **Databases** | MongoDB, MySQL, PostgreSQL |
+| **Artificial intelligence** | Applied machine learning, deep learning, computer vision |
+| **Research** | Lightweight CNNs, facial emotion recognition, Edge AI |
+| **Developer workflow** | Git, GitHub, code review, testing, documentation and deployment |
 
-**Live website:** [code-akarshmishra.vercel.app](https://code-akarshmishra.vercel.app/)
+## Featured Software Projects
 
-## What's Inside
+These projects represent my work in full-stack development, AI-powered applications, computer vision, and business-focused web engineering.
 
-- **Introduction:** A short profile and overview of my current interests.
-- **Projects:** Selected work, including ENROLE, PrepBot.AI, and MedRX.
-- **Technical skills:** Frontend, backend, and AI/ML areas I work with.
-- **Experience and leadership:** Internship, hackathon, and technical-community activities.
-- **Certifications:** Internship certificates, simulations, and event recognitions.
-- **Research interests:** Facial emotion analysis, deep learning, and 6G communication.
-- **Contact form:** A way to send a message directly from the website.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Featured Projects
+### ENROLE — Smart Interview Platform
 
-| Project | Overview |
-| --- | --- |
-| **ENROLE** | A smart interview and recruitment platform focused on interview workflows and candidate evaluation. |
-| **PrepBot.AI** | An AI-driven educational platform developed collaboratively with the Script Squad team. |
-| **MedRX** | A healthcare-focused project intended to make prescription information easier to understand. |
+An AI-assisted recruitment and interview platform focused on candidate workflows, interview management, evaluation, and hiring analytics.
 
-Visit the [live portfolio](https://code-akarshmishra.vercel.app/) for project details and available links.
+<a href="https://github.com/Code-AkarshMishra/ENROLE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-AkarshMishra&repo=ENROLE&theme=transparent&hide_border=true" width="100%" alt="ENROLE GitHub repository"/></a>
 
-## Tech Stack
+</td>
+<td width="50%" valign="top">
 
-### Core framework and language
+### MedRx — AI Medical Report Interpreter
 
-![Next.js](https://img.shields.io/badge/Next.js-16.1.6-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-19.2.3-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+An AI-powered application designed to make medical report information easier to understand through patient-friendly explanations.
 
-### Styling, motion, and icons
+<a href="https://github.com/Code-AkarshMishra/MedRx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-AkarshMishra&repo=MedRx&theme=transparent&hide_border=true" width="100%" alt="MedRx GitHub repository"/></a>
+[Live project ↗](https://medrx-beta.vercel.app)
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Lucide React](https://img.shields.io/badge/Lucide%20React-F56565?style=flat-square&logo=lucide&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Contact and deployment
+### NeuroTrack AI — Cognitive Load Detector
 
-![Web3Forms](https://img.shields.io/badge/Web3Forms-Contact%20API-2563EB?style=flat-square)
-![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Source%20Control-181717?style=flat-square&logo=github&logoColor=white)
+A multimodal cognitive-load and mental-fatigue analysis prototype exploring interaction signals and privacy-conscious session insights.
 
-## Run Locally
+<a href="https://github.com/Code-AkarshMishra/CognitiveLoadDetector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-AkarshMishra&repo=CognitiveLoadDetector&theme=transparent&hide_border=true" width="100%" alt="Cognitive Load Detector GitHub repository"/></a>
 
-### Prerequisites
+</td>
+<td width="50%" valign="top">
 
-- [Node.js](https://nodejs.org/) (LTS recommended)
-- npm
-- Git
+### FrameSutra — Video Intelligence Platform
 
-### 1. Clone the repository
+A local-first video intelligence project combining transcription, summarisation, visual analysis, and retrieval-augmented question answering.
 
-```bash
-git clone https://github.com/Code-AkarshMishra/akarsh-portfolio.git
-cd akarsh-portfolio
-```
+<a href="https://github.com/Code-AkarshMishra/FrameSutra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-AkarshMishra&repo=FrameSutra&theme=transparent&hide_border=true" width="100%" alt="FrameSutra GitHub repository"/></a>
 
-### 2. Install dependencies
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-```bash
-npm install
-```
+### WeatherGPT — Conversational Weather
 
-### 3. Start the development server
+A conversational weather project developed for the Smart India Hackathon 2026 internal selection process.
 
-```bash
-npm run dev
-```
+<a href="https://github.com/Code-AkarshMishra/WeatherGPT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-AkarshMishra&repo=WeatherGPT&theme=transparent&hide_border=true" width="100%" alt="WeatherGPT GitHub repository"/></a>
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+</td>
+<td width="50%" valign="top">
 
-### Available scripts
+### Mahakal Swarn Builder
 
-| Command | Purpose |
-| --- | --- |
-| `npm run dev` | Start the Next.js development server. |
-| `npm run build` | Create an optimized production build. |
-| `npm run start` | Start the production server. |
-| `npm run lint` | Run ESLint checks. |
+A business-facing website designed to present services and create a clear customer experience.
 
-## Project Structure
+<a href="https://github.com/Code-AkarshMishra/mahakalswarnbuilder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-AkarshMishra&repo=mahakalswarnbuilder&theme=transparent&hide_border=true" width="100%" alt="Mahakal Swarn Builder GitHub repository"/></a>
+[Live project ↗](https://mahakalswarnbuilder.vercel.app)
+
+</td>
+</tr>
+</table>
+
+### More work
+
+- **Sparsh Trading:** Trading-related web project — [repository](https://github.com/Code-AkarshMishra/Sparsh-Trading) · [live website](https://sparshtrading.shop)
+- **Prepbot.ai:** AI-assisted educational product prototype — [repository](https://github.com/Code-AkarshMishra/Prepbot.ai)
+
+[Explore all GitHub repositories →](https://github.com/Code-AkarshMishra?tab=repositories)
+
+## Project Screenshots & Demonstrations
+
+Screenshots below are served from my existing portfolio repository. Project GIFs and event photographs can be added to `assets/projects/`, `assets/demos/`, and `assets/photos/` as they become available.
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+**ENROLE**
+
+<a href="https://github.com/Code-AkarshMishra/ENROLE">
+<img src="assets/projects/enrole.png" width="100%" alt="ENROLE smart interview platform screenshot"/>
+</a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**MedRx**
+
+<a href="https://github.com/Code-AkarshMishra/MedRx">
+<img src="assets/projects/medrx.png" width="100%" alt="MedRx AI medical report application screenshot"/>
+</a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**Prepbot.ai**
+
+<a href="https://github.com/Code-AkarshMishra/Prepbot.ai">
+<img src="assets/projects/prepbot.png" width="100%" alt="Prepbot AI learning application screenshot"/>
+</a>
+
+</td>
+</tr>
+</table>
+</div>
+
+## Technical Skills & Technology Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,tensorflow,pytorch,opencv,git,github,postman,vercel&perline=10" alt="JavaScript TypeScript Python Java React Next.js Node.js MongoDB TensorFlow PyTorch and developer tools"/>
+</div>
+
+| Category | Technologies |
+|---|---|
+| **Programming languages** | JavaScript, TypeScript, Python, Java, C++, SQL |
+| **Frontend development** | React.js, Next.js, HTML5, CSS3, Tailwind CSS |
+| **Backend development** | Node.js, Express.js, REST APIs |
+| **Databases** | MongoDB, MySQL, PostgreSQL |
+| **AI and machine learning** | TensorFlow, Keras, PyTorch, OpenCV |
+| **Tools and platforms** | Git, GitHub, Postman, VS Code, Vercel |
+
+## Research, Hackathons & Achievements
+
+- **ICSI 2.0 — Research Presentation, SRMU:** Presented *“Lightweight CNN-based Facial Emotion Recognition to attain sustainable Edge AI systems”*, focused on compact convolutional neural networks for edge-oriented facial emotion recognition.
+- **Smart India Hackathon 2026 — SRMU Internal Round:** Secured **first rank** with **Team One Percent** in the university's internal hackathon.
+- **HackWithUP 2025:** Reached the finalist / grand-finale stage.
+- **Open-source programmes:** Selected for GSSoC and SSOC community programmes.
+
+[View official GitHub achievements ↗](https://github.com/Code-AkarshMishra?tab=achievements)
+
+## Leadership & Technical Community
+
+- **General Secretary, Tech Fusion Club (SRMU):** Supporting technical-community initiatives, coordination, and student engagement.
+- **Former Documentation Lead:** Managed technical documentation and event-related coordination.
+- I value ownership, clear communication, teamwork, documentation, and maintainable software engineering practices.
+
+## GitHub Statistics & Live Activity
+
+The following cards query public GitHub data through external services. Those services apply caching, so the images are API-backed but are not guaranteed to refresh immediately after each GitHub event.
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Code-AkarshMishra&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent" alt="Akarsh Mishra GitHub statistics and contribution summary"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-AkarshMishra&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used programming languages on GitHub"/>
+</a>
+</div>
+
+<div align="center">
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+<img src="https://streak-stats.demolab.com?user=Code-AkarshMishra&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+</a>
+</div>
+
+### GitHub Contribution Activity
+
+<div align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-AkarshMishra&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph over time"/>
+</a>
+</div>
+
+### Animated Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Code-AkarshMishra/Code-AkarshMishra/output/github-snake.svg" alt="Animated snake following the GitHub contribution calendar" width="100%"/>
+</picture>
+</div>
+
+### GitHub Achievements & Extended Metrics
+
+<div align="center">
+<a href="https://github-profile-trophy.vercel.app/">
+<img src="https://github-profile-trophy.vercel.app/?username=Code-AkarshMishra&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub achievement trophy visualization"/>
+</a>
+</div>
+
+<img src="assets/github-metrics.svg" width="100%" alt="Extended GitHub metrics generated by GitHub Actions"/>
+
+[Open official GitHub achievements page ↗](https://github.com/Code-AkarshMishra?tab=achievements)
+
+### Update frequency and data sources
+
+| Profile element | Source | Refresh behaviour |
+|---|---|---|
+| Repository statistics and language cards | GitHub Readme Stats | API-backed; provider cache applies |
+| Contribution streak | Streak Stats | API-backed; provider cache applies |
+| Contribution activity graph | Activity Graph | API-backed; provider cache applies |
+| Achievement trophy display | Profile Trophy | API-backed; provider cache applies |
+| Contribution snake | GitHub contribution calendar | GitHub Actions daily + manual run |
+| Extended metrics and achievements | Lowlighter Metrics | GitHub Actions daily + manual run |
+
+**Accuracy note:** GitHub profile READMEs are static Markdown. They cannot run custom browser-side JavaScript or guarantee second-by-second API refresh. This setup uses live/cached external API image endpoints plus scheduled GitHub Actions for generated assets.
+
+## Engineering Workflow
 
 ```text
-akarsh-portfolio/
-├── app/
-│   ├── layout.tsx          # Root layout, metadata, and structured data
-│   ├── page.tsx             # Main portfolio page and sections
-│   └── globals.css          # Global styles
-├── components/
-│   ├── ContactForm.tsx      # Contact form using Web3Forms
-│   └── TiltCard.tsx         # Reusable interactive card
-├── public/
-│   ├── certificates/        # Certification and recognition assets
-│   ├── projects/            # Project preview images
-│   ├── profile.jpg          # Profile image
-│   └── Akarsh_Mishra_Resume.pdf
-├── package.json
-├── next.config.ts
-├── tailwind.config.ts
-└── README.md
+DISCOVER
+  Understand the user problem and constraints
+       ↓
+DESIGN
+  Define scope, user flow, architecture and data model
+       ↓
+BUILD
+  Implement frontend, backend, APIs and integrations
+       ↓
+VERIFY
+  Test behaviour, review edge cases and fix defects
+       ↓
+SHIP
+  Deploy, document, monitor and iterate
 ```
 
-## Contact Form
+**Engineering principles:** readable code · clear interfaces · secure defaults · useful documentation · measurable outcomes.
 
-The contact form submits messages through [Web3Forms](https://web3forms.com/). To use your own form configuration, create a Web3Forms access key and configure it in `components/ContactForm.tsx` according to the provider's instructions. Avoid committing private credentials or other secrets to the repository.
+## Let's Connect
 
-## Deployment
+<div align="center">
 
-The portfolio is deployed on **Vercel**.
+<a href="https://code-akarshmishra.vercel.app">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/code-akarshmishra/">LinkedIn</a> ·
+<a href="https://leetcode.com/u/code_akarshmishra/">LeetCode</a> ·
+<a href="https://www.hackerrank.com/CodeAkarshMishra">HackerRank</a> ·
+<a href="https://dev.to/codeakarshmishra">DEV Community</a> ·
+<a href="mailto:akarshmishmra3145@gmail.com">Email</a>
 
-**Live URL:** [https://code-akarshmishra.vercel.app/](https://code-akarshmishra.vercel.app/)
+<img src="assets/footer-banner.svg" width="100%" alt="Build thoughtfully. Ship consistently"/>
 
-To deploy your own instance, import the repository into [Vercel](https://vercel.com/), review the build settings, and deploy the project.
+<sub>Thanks for visiting. Explore the repositories, inspect the implementations, and connect about engineering opportunities or technical collaboration.</sub>
 
-## Connect
-
-- **Portfolio:** [code-akarshmishra.vercel.app](https://code-akarshmishra.vercel.app/)
-- **GitHub:** [github.com/Code-AkarshMishra](https://github.com/Code-AkarshMishra)
-- **LinkedIn:** [linkedin.com/in/akarshmishra1](https://www.linkedin.com/in/akarshmishra1/)
-- **Commudle:** [Code_AkarshMishra](https://www.commudle.com/users/Code_AkarshMishra)
-- **DEV Community:** [@codeakarshmishra](https://dev.to/codeakarshmishra)
-- **Topmate:** [codeakarshmishra](https://topmate.io/codeakarshmishra)
-- **Email:** [akarshmishra.cs@gmail.com](mailto:akarshmishra.cs@gmail.com)
-
----
-
-<p align="center">
-  Designed and developed by <strong>Akarsh Mishra</strong>.
-  <br />
-  <a href="https://code-akarshmishra.vercel.app/">Visit the live portfolio</a>
-</p>
+</div>

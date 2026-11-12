@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-labelledby="title">
+<title id="title">Build thoughtfully. Ship consistently.</title>
+<rect x="4" y="4" width="1192" height="102" rx="15" fill="#111D23" stroke="#34584B" stroke-width="2"/>
+<path d="M35 30H54V49H35ZM54 49H73V68H54Z" fill="#78E0B1"/>
+<text x="600" y="51" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="700" fill="#F4F7F5">Build thoughtfully. Ship consistently.</text>
+<text x="600" y="80" text-anchor="middle" font-family="monospace" font-size="14" fill="#B0C8BD">ENGINEERING · CURIOSITY · CONTINUOUS IMPROVEMENT</text>
+<path d="M1127 30H1146V49H1127ZM1108 49H1127V68H1108Z" fill="#78E0B1"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Akarsh Mishra — Software Engineer</title>
+<desc id="desc">Professional dark developer banner for Akarsh Mishra, full-stack developer and applied AI/ML enthusiast.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1117"/><stop offset="1" stop-color="#17252C"/></linearGradient>
+ <linearGradient id="green" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4BD6A0"/><stop offset="1" stop-color="#A1F3CB"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#A3C7B8" stroke-opacity=".075"/></pattern>
+</defs>
+<rect x="4" y="4" width="1192" height="312" rx="20" fill="url(#bg)" stroke="#34584B" stroke-width="2"/>
+<rect x="4" y="4" width="1192" height="312" rx="20" fill="url(#grid)"/>
+<rect x="52" y="56" width="5" height="198" rx="2" fill="url(#green)"/>
+<text x="82" y="77" font-family="monospace" font-size="15" letter-spacing="4" fill="#91B5A6">ENGINEERING / PRODUCT / RESEARCH</text>
+<text x="78" y="157" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#F4F7F5">Akarsh Mishra</text>
+<text x="83" y="201" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#C1D3CB">Full-Stack Developer  ·  Applied AI/ML</text>
+<text x="83" y="243" font-family="monospace" font-size="15" fill="#78E0B1">BUILD USEFUL SOFTWARE. SOLVE REAL PROBLEMS.</text>
+<g transform="translate(870 82)" fill="none" stroke="#6DD7A9" stroke-width="2" opacity=".72">
+ <rect width="238" height="146" rx="12" stroke-opacity=".5"/>
+ <path d="M0 35H238" stroke-opacity=".5"/>
+ <circle cx="19" cy="17" r="4" fill="#6DD7A9" stroke="none"/>
+ <circle cx="35" cy="17" r="4" fill="#6DD7A9" stroke="none" opacity=".65"/>
+ <circle cx="51" cy="17" r="4" fill="#6DD7A9" stroke="none" opacity=".35"/>
+ <path d="M25 67L43 82L25 97M59 98H104M126 66H207M126 91H189M126 116H215" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="870" y="256" font-family="monospace" font-size="12" fill="#80A094">DESIGN / ENGINEER / ITERATE</text>
+</svg>
