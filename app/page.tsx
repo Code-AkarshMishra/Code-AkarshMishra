@@ -1,5 +1,4 @@
 ﻿'use client';
-import DiwaliFireworks from "@/components/DiwaliFireworks";
 import { AnimatePresence, motion, useReducedMotion, useScroll, useSpring } from 'framer-motion';
 import {
   ArrowRight,
@@ -320,8 +319,7 @@ export default function Portfolio() {
     <main className="min-h-screen overflow-x-hidden font-sans text-ink bg-cyber-bg selection:bg-cyber-emerald selection:text-white">
       {/* Top Scroll Indicator */}
 
-      <DiwaliFireworks />
-
+    
       <motion.div className="fixed left-0 right-0 top-0 z-[110] h-0.5 origin-left bg-cyber-blue" style={{ scaleX }} />
 
       {/* Navigation Header */}
